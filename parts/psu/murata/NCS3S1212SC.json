@@ -1,0 +1,64 @@
+{
+    "MPN": [
+        false,
+        "NCS3S1212SC"
+    ],
+    "datasheet": [
+        false,
+        "https://www.mouser.ca/pdfDocs/kdc_ncs3-764972.pdf"
+    ],
+    "description": [
+        false,
+        "DC DC CONVERTER 12V 3W"
+    ],
+    "entity": "4ac0dffe-ae4a-4427-be03-f4ac4d085dc9",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "cfb89b92-b05c-4748-a16e-f065663dbfff": "NCS3S1212SC"
+    },
+    "package": "880991d0-6587-4b64-9597-0aad8509c633",
+    "pad_map": {
+        "242c177b-7e51-468a-a338-49ea7bc556fb": {
+            "gate": "b394af28-5dbb-4ad1-ae7b-c16602a09e6c",
+            "pin": "f138d02a-f047-46bd-9880-cbff87f4e7ee"
+        },
+        "9de6bb48-2ab8-423f-9e13-3b1521b6f3eb": {
+            "gate": "b394af28-5dbb-4ad1-ae7b-c16602a09e6c",
+            "pin": "1a7aa806-8628-4376-a1b3-d432bdced867"
+        },
+        "b37fa59f-c2e0-4325-9351-142664dfb75a": {
+            "gate": "b394af28-5dbb-4ad1-ae7b-c16602a09e6c",
+            "pin": "000b7933-7fcc-446a-8da9-00fa2c6f1401"
+        },
+        "d2956427-b22c-4006-9cd9-e73111aa531f": {
+            "gate": "b394af28-5dbb-4ad1-ae7b-c16602a09e6c",
+            "pin": "d51b2887-64cb-4349-b97d-668e19a96c32"
+        },
+        "e5fcb5c8-a23e-4889-85dd-9e54fcc4ebd8": {
+            "gate": "b394af28-5dbb-4ad1-ae7b-c16602a09e6c",
+            "pin": "10e67be5-2894-43d8-bc10-8092f18d0116"
+        },
+        "ff813f1c-88a0-4b53-bbbc-26ef7396dadd": {
+            "gate": "b394af28-5dbb-4ad1-ae7b-c16602a09e6c",
+            "pin": "cbc65a5e-414f-4acc-9389-765ba9217c83"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "power",
+        "psu"
+    ],
+    "type": "part",
+    "uuid": "b5f69445-7c98-4475-952e-15b81b60a8ed",
+    "value": [
+        false,
+        ""
+    ]
+}

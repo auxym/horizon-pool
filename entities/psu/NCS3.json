@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "b394af28-5dbb-4ad1-ae7b-c16602a09e6c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8c8f9d14-53f3-4263-aaf1-e61eeadf960c"
+        }
+    },
+    "manufacturer": "Murata",
+    "name": "NCS3",
+    "prefix": "PS",
+    "tags": [
+        "dcdc",
+        "power"
+    ],
+    "type": "entity",
+    "uuid": "4ac0dffe-ae4a-4427-be03-f4ac4d085dc9"
+}

@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Murara",
+    "name": "NCS3",
+    "pins": {
+        "000b7933-7fcc-446a-8da9-00fa2c6f1401": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "+Vin",
+            "swap_group": 0
+        },
+        "10e67be5-2894-43d8-bc10-8092f18d0116": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "-Vin",
+            "swap_group": 0
+        },
+        "1a7aa806-8628-4376-a1b3-d432bdced867": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "+Vout",
+            "swap_group": 0
+        },
+        "cbc65a5e-414f-4acc-9389-765ba9217c83": {
+            "direction": "not_connected",
+            "names": [],
+            "primary_name": "NC",
+            "swap_group": 0
+        },
+        "d51b2887-64cb-4349-b97d-668e19a96c32": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Control",
+            "swap_group": 0
+        },
+        "f138d02a-f047-46bd-9880-cbff87f4e7ee": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "0V",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "8c8f9d14-53f3-4263-aaf1-e61eeadf960c"
+}
