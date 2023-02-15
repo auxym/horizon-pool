@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "TBL004-508-04"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "TERMINAL BLOCK SCREWLESS 5.08mm"
+    ],
+    "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "2a07ba77-2b43-468f-9f02-c02534f548a3": "TBL004-508-04BE-2GY"
+    },
+    "package": "260a474b-a0ab-4392-ae1b-5b5cb04d89df",
+    "pad_map": {
+        "155b1279-02cc-4ab4-946c-abca50548961": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        },
+        "3b5fbb36-6c03-4c9d-92ff-0070a7b628d7": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "798d5ee6-2fbf-445b-a1de-41b54752608d": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "7bdba679-7ac2-497c-b0bf-d6130c46446d": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "cb5e2d85-5072-454b-87a7-1c2266cf946d": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "cfa0795e-74af-4700-bad8-4daa7e8a3fc4": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "dff4ca9a-1d27-4400-8ad5-735dfe1a8df4": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "fa57464a-7920-42ba-80a8-d0990b48ab87": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "terminalblock"
+    ],
+    "type": "part",
+    "uuid": "34d9be4a-8a3d-4d90-b6f9-4063f23b3606",
+    "value": [
+        false,
+        ""
+    ]
+}
