@@ -1,0 +1,44 @@
+{
+    "manufacturer": "",
+    "name": "Instrumentation Amplifier",
+    "pins": {
+        "1d8b2978-bb50-4236-b673-7f780afea656": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RG2",
+            "swap_group": 0
+        },
+        "2d10fee9-bc21-4923-acd9-17425abcc110": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "-IN",
+            "swap_group": 0
+        },
+        "47ad32f6-a852-4dc1-ab23-668daf6967af": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUT",
+            "swap_group": 0
+        },
+        "578a6a75-f376-4c36-8423-ccb958357967": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "RG1",
+            "swap_group": 0
+        },
+        "cf0ff1e5-186c-45d2-a748-fa09b5950645": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "+IN",
+            "swap_group": 0
+        },
+        "e68639d5-21ad-4cdc-afeb-d0659eab7691": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "21f99961-5c94-4e4a-80de-7e04eb636c66"
+}

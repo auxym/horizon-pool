@@ -1,0 +1,24 @@
+{
+    "gates": {
+        "17576448-70a5-433a-bcaa-a72bc56d24ae": {
+            "name": "P",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "c5b399c9-5626-4cc6-b33d-5c0f3da5df5c"
+        },
+        "b495f4fb-dc2d-4599-87d6-2b716935e75a": {
+            "name": "Main",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "21f99961-5c94-4e4a-80de-7e04eb636c66"
+        }
+    },
+    "manufacturer": "",
+    "name": "Single In-Amp",
+    "prefix": "U",
+    "tags": [
+        "inamp"
+    ],
+    "type": "entity",
+    "uuid": "028d73fd-5ab8-4b36-90d6-dae43ded2056"
+}
