@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "ERA-6AEB102V"
+    ],
+    "base": "0aaa5955-e860-49fa-9b04-c3fe2d4bc010",
+    "datasheet": [
+        true,
+        ""
+    ],
+    "description": [
+        false,
+        "RES 1K OHM 0.1% 1/8W 25PPM 0805"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "orderable_MPNs": {
+        "848ee8a4-ce94-4d79-b80f-b03eceb6ec83": "ERA-6AEB102V"
+    },
+    "parametric": {
+        "pmax": "0.125",
+        "table": "resistors",
+        "tolerance": "0.1",
+        "value": "1000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "675a5ebc-be93-4227-a58d-a37d9b23f40b",
+    "value": [
+        false,
+        "1 kΩ"
+    ]
+}
