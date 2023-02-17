@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "ADR0x",
+    "pins": {
+        "801af695-a67b-48a7-a910-cc8bb0786cf1": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "9772ec0f-1cfe-443a-b8ab-9e73b8e700de": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vin",
+            "swap_group": 0
+        },
+        "b0f6875a-ec8a-4081-b552-57fd2af488c7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Trim",
+            "swap_group": 0
+        },
+        "ed7cb182-60d4-4bce-9e81-e1bec55427f8": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Temp",
+            "swap_group": 0
+        },
+        "f4854b17-1a71-43c9-85fc-e0d240d1102a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Vout",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5f708788-be14-4205-aad0-7e161fdb3d6a"
+}

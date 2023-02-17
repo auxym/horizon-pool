@@ -1,0 +1,61 @@
+{
+    "MPN": [
+        false,
+        "ADR01ARZ"
+    ],
+    "datasheet": [
+        false,
+        "https://www.analog.com/media/en/technical-documentation/data-sheets/ADR01_02_03_06.pdf"
+    ],
+    "description": [
+        false,
+        "Precision 10 V Voltage Reference"
+    ],
+    "entity": "f12ffc83-21ff-4462-9742-16c4eee7edc9",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Analog Devices"
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "orderable_MPNs": {
+        "4586d03a-b1da-48cb-a6f3-73d0a8a9bea4": "ADR01ARZ-REEL7",
+        "6830dc2d-f3ec-48f1-ba4f-2284a71f575b": "ADR01ARZ"
+    },
+    "package": "0932e22e-0cf7-46dc-b09c-4cc761a67608",
+    "pad_map": {
+        "17341892-a120-44e2-97ea-6e4f8e3d7da5": {
+            "gate": "6ffa7938-e758-4233-8c8c-aaf2558361f1",
+            "pin": "9772ec0f-1cfe-443a-b8ab-9e73b8e700de"
+        },
+        "29f18ab8-6cea-44fc-9bf5-4fb888f5245b": {
+            "gate": "6ffa7938-e758-4233-8c8c-aaf2558361f1",
+            "pin": "801af695-a67b-48a7-a910-cc8bb0786cf1"
+        },
+        "68b17b6f-ab52-4c2b-9389-c36d3c06eeef": {
+            "gate": "6ffa7938-e758-4233-8c8c-aaf2558361f1",
+            "pin": "ed7cb182-60d4-4bce-9e81-e1bec55427f8"
+        },
+        "6f82c7c4-9578-4cb0-a92c-8b09534d5dc9": {
+            "gate": "6ffa7938-e758-4233-8c8c-aaf2558361f1",
+            "pin": "b0f6875a-ec8a-4081-b552-57fd2af488c7"
+        },
+        "82d773fb-4473-4bd9-a879-a6ca2756055c": {
+            "gate": "6ffa7938-e758-4233-8c8c-aaf2558361f1",
+            "pin": "f4854b17-1a71-43c9-85fc-e0d240d1102a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "regulator",
+        "vref"
+    ],
+    "type": "part",
+    "uuid": "88a6e394-bcaf-4f40-9124-52f6253a4ac1",
+    "value": [
+        false,
+        ""
+    ]
+}

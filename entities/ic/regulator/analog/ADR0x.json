@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "6ffa7938-e758-4233-8c8c-aaf2558361f1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5f708788-be14-4205-aad0-7e161fdb3d6a"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "ADR0x",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "regulator",
+        "vref"
+    ],
+    "type": "entity",
+    "uuid": "f12ffc83-21ff-4462-9742-16c4eee7edc9"
+}
