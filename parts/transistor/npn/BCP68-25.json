@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "BCP68-25"
+    ],
+    "datasheet": [
+        false,
+        "https://assets.nexperia.com/documents/data-sheet/BCP68_BC868_BC68PA.pdf"
+    ],
+    "description": [
+        false,
+        "NPN Transistor 20V 2A SOT-223"
+    ],
+    "entity": "15e94b7a-b7c9-4bf2-820c-11074dc0718e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "1c4377f2-2789-4b2c-b94b-c08645583d2e",
+    "orderable_MPNs": {
+        "2b780de6-43b6-4509-8bf2-358ee280e484": "BCP68-25",
+        "414c66f3-a927-4146-8182-97e2b71bca5e": "BCP68-25,115"
+    },
+    "package": "ca5d9f54-a411-4cee-abbb-7cc278bc91c8",
+    "pad_map": {
+        "054f29e1-f03d-4150-926a-789da437d5bd": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "41454731-8468-4e57-be99-a40cff48376c": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "aab39acd-7b1b-4524-a679-931ff77c0e4b": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "bd48c805-e32c-4720-a532-f40c01052ca6": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "49217aad-4466-4ec4-857b-e4bebf9f5cba",
+    "value": [
+        false,
+        ""
+    ]
+}
