@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "4604X-102"
+    ],
+    "datasheet": [
+        false,
+        "https://www.bourns.com/docs/Product-Datasheets/4600x.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film 2-Resistor Array"
+    ],
+    "entity": "974f7d2a-1dae-48ab-9546-b911b72fc76e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "b20dfe09-bc3e-4170-8862-d410a2101cbd": "4604X-102-103LF"
+    },
+    "package": "b3358212-b8fc-45f3-833c-6180934b990d",
+    "pad_map": {
+        "09c8e7dd-6ccf-4edd-9f8b-8b06bf996738": {
+            "gate": "8437891c-abb5-40a3-a093-b37f597afaec",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "2c3558f1-bf1a-4565-bfc5-a96543af56b2": {
+            "gate": "a6cd53a9-526a-4621-a075-b212a037893f",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "d92f9b3d-9072-4734-bab2-9864bb40e972": {
+            "gate": "8437891c-abb5-40a3-a093-b37f597afaec",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        },
+        "fd618150-218c-441c-9691-647611c59ef7": {
+            "gate": "a6cd53a9-526a-4621-a075-b212a037893f",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "61ec421a-573c-4cb6-8cf8-fff67ccb3eb6",
+    "value": [
+        false,
+        "10K"
+    ]
+}

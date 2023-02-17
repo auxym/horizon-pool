@@ -1,0 +1,24 @@
+{
+    "gates": {
+        "8437891c-abb5-40a3-a093-b37f597afaec": {
+            "name": "R1",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e"
+        },
+        "a6cd53a9-526a-4621-a075-b212a037893f": {
+            "name": "R2",
+            "suffix": "B",
+            "swap_group": 0,
+            "unit": "9b22b899-e8eb-4ce8-b62d-79b7b2db035e"
+        }
+    },
+    "manufacturer": "",
+    "name": "2-Resistor Array",
+    "prefix": "R",
+    "tags": [
+        "resistor"
+    ],
+    "type": "entity",
+    "uuid": "974f7d2a-1dae-48ab-9546-b911b72fc76e"
+}
