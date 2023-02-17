@@ -1,0 +1,32 @@
+{
+    "manufacturer": "",
+    "name": "Capacitor X2Y",
+    "pins": {
+        "32122737-1f22-4572-9a69-de02c0d9020d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "84769ce5-0d8c-40b4-acfa-0ba1611c2585": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "G1",
+            "swap_group": 0
+        },
+        "b8c5de1a-272e-4318-bff7-e2393a68add0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "G2",
+            "swap_group": 0
+        },
+        "d5a5ed49-f420-4548-925a-38eb6c2e63b9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "f543e52f-c26f-40b0-b462-1f6cd7cef61b"
+}

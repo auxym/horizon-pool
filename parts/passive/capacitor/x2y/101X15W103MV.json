@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "101X15W103MV"
+    ],
+    "datasheet": [
+        false,
+        "https://www.johansondielectrics.com/downloads/emi-filter-and-decoupling-capacitors.pdf"
+    ],
+    "description": [
+        false,
+        "CAP X2Y CER 10000PF 100V X7R 0805"
+    ],
+    "entity": "40eb7bdc-dcaf-4c58-aebc-c7bad8575b52",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Johanson Dielectrics Inc."
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "892365f1-699f-4a76-a9cb-ef4107baa484",
+    "pad_map": {
+        "055eab68-9bbf-4357-8cbc-7d2b1ed36c4d": {
+            "gate": "9a8c1534-33ec-4f52-8442-84a66e01d33e",
+            "pin": "84769ce5-0d8c-40b4-acfa-0ba1611c2585"
+        },
+        "28a2fca1-096e-498e-89c7-1064f43b7cd2": {
+            "gate": "9a8c1534-33ec-4f52-8442-84a66e01d33e",
+            "pin": "32122737-1f22-4572-9a69-de02c0d9020d"
+        },
+        "bf37690a-1f3b-4db7-a40a-52920cbb87b9": {
+            "gate": "9a8c1534-33ec-4f52-8442-84a66e01d33e",
+            "pin": "d5a5ed49-f420-4548-925a-38eb6c2e63b9"
+        },
+        "ed39cf37-0e45-4489-a6da-76b79ec7e820": {
+            "gate": "9a8c1534-33ec-4f52-8442-84a66e01d33e",
+            "pin": "b8c5de1a-272e-4318-bff7-e2393a68add0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "c12fad57-63b4-409f-969a-04c0d7141114",
+    "value": [
+        false,
+        "10 nF"
+    ]
+}

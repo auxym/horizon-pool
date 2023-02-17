@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "9a8c1534-33ec-4f52-8442-84a66e01d33e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "f543e52f-c26f-40b0-b462-1f6cd7cef61b"
+        }
+    },
+    "manufacturer": "",
+    "name": "Capacitor X2Y",
+    "prefix": "C",
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "entity",
+    "uuid": "40eb7bdc-dcaf-4c58-aebc-c7bad8575b52"
+}
