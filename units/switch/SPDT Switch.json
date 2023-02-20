@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "SPDT Switch",
+    "pins": {
+        "9021c5e1-f6c2-4921-b60e-ff023b6dc6ed": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "COM",
+            "swap_group": 0
+        },
+        "c0150bcb-eda3-4d0c-926c-05fa2c8eb6a9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "cb2187d3-d60d-425d-93b8-d40757134afc": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "578eaa76-b51c-441f-bceb-486085c502d4"
+}

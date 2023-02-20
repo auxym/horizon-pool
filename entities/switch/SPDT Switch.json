@@ -1,0 +1,22 @@
+{
+    "gates": {
+        "06d0d02f-52f1-4344-9d7a-7ec409f854f9": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "578eaa76-b51c-441f-bceb-486085c502d4"
+        }
+    },
+    "manufacturer": "",
+    "name": "SPDT Switch",
+    "prefix": "S",
+    "tags": [
+        "mechanical",
+        "slide",
+        "slideswitch",
+        "spdt",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "9d03621b-41a5-4ac7-9b60-5395d6ba5a4c"
+}

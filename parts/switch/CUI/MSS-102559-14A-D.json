@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "MSS-102559-14A-D"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cuidevices.com/product/resource/mss-102559-14a-d.pdf"
+    ],
+    "description": [
+        false,
+        "SPDT Slide Switch TH"
+    ],
+    "entity": "9d03621b-41a5-4ac7-9b60-5395d6ba5a4c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "25678788-63e8-4620-82ac-ac4f5dd87166",
+    "pad_map": {
+        "308e336d-ebe9-4114-af16-2582d8725902": {
+            "gate": "06d0d02f-52f1-4344-9d7a-7ec409f854f9",
+            "pin": "c0150bcb-eda3-4d0c-926c-05fa2c8eb6a9"
+        },
+        "353ad153-3cc9-4a06-858f-839b7b64163c": {
+            "gate": "06d0d02f-52f1-4344-9d7a-7ec409f854f9",
+            "pin": "9021c5e1-f6c2-4921-b60e-ff023b6dc6ed"
+        },
+        "37f865ad-c5a6-49d9-a23e-cccd4136c6dd": {
+            "gate": "06d0d02f-52f1-4344-9d7a-7ec409f854f9",
+            "pin": "cb2187d3-d60d-425d-93b8-d40757134afc"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mechanical",
+        "slide",
+        "slideswitch",
+        "spdt",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "982af2ab-fb15-4c0a-a407-8fed73f9eda0",
+    "value": [
+        false,
+        ""
+    ]
+}
