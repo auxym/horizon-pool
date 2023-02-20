@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "2917b94d-1190-4dba-8b86-f8dcdca564a1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "07dee3ab-4d2c-47c7-b08b-12f54760de15"
+        }
+    },
+    "manufacturer": "",
+    "name": "6-SPST Switch",
+    "prefix": "S",
+    "tags": [
+        "mechanical",
+        "switch"
+    ],
+    "type": "entity",
+    "uuid": "5f53731e-64a7-40a8-b6a6-1f1edf3ac086"
+}

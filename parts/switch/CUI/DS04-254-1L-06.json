@@ -1,0 +1,84 @@
+{
+    "MPN": [
+        false,
+        "DS04-254-1L-06"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cuidevices.com/product/resource/ds04-254.pdf"
+    ],
+    "description": [
+        false,
+        "Dip Switch 6-SPST 2.54 mm TH"
+    ],
+    "entity": "5f53731e-64a7-40a8-b6a6-1f1edf3ac086",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "3cb1e975-8a91-4caf-8241-9b0eb9397da7": "DS04-254-1L-06BK"
+    },
+    "package": "fac30cae-4907-4aaa-9b24-cd3441958bde",
+    "pad_map": {
+        "02063fa6-c325-4df2-bb77-571f28da4f89": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "1437d237-7f62-40fb-9845-0023915e7b49"
+        },
+        "0a535e6a-5ec6-48f2-b396-9a7236b3ecbe": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "0a8421a7-1098-47ea-9f17-6e8d6c4304c7"
+        },
+        "17f96b52-6224-4156-a2c9-3b4c292bf3ab": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "b3b52760-d56b-4a06-9c1c-41eb4b905e73"
+        },
+        "49b2ec1d-bc9c-4e02-938e-5853ed60855c": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "6e89f95f-f3c9-408e-a73f-baf5570cb82f"
+        },
+        "4f957a10-9981-4100-ae71-aeff3c5066d1": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "9835862f-a7c9-4080-8188-dd1ae2f384e1"
+        },
+        "61358d72-c4c1-40dd-b6a0-d76c00b07a26": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "c03d339f-43fa-4e6d-8cba-89ceced5b066"
+        },
+        "69825f2f-88b4-4724-8e7c-f72589e2c0c7": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "53945dc3-a16f-448c-9057-c6bc8c6e0961"
+        },
+        "74fe94c2-657f-4184-b5fe-e70be607ce0d": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "49578524-71df-41f0-9a69-45c2218138e2"
+        },
+        "7f96be97-4c27-449b-85d4-982e9acc4e0f": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "69aee1f5-13df-4d44-b5dc-9b0d6cb978ec"
+        },
+        "82c78305-002b-487c-b1b6-b33435718f8e": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "23049cd2-b2d9-4043-8042-cd56b05a117e"
+        },
+        "89289608-e62d-4f74-aafc-7b459044667b": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "e5acc3d4-161e-4922-a305-b716469682ee"
+        },
+        "ef232360-f78f-4226-921e-ec90c9f38e0a": {
+            "gate": "2917b94d-1190-4dba-8b86-f8dcdca564a1",
+            "pin": "f0ae54f0-09e2-45e2-9a61-79bd347375ae"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "f0b3dd2a-007b-4181-bfa5-467367c29543",
+    "value": [
+        false,
+        ""
+    ]
+}

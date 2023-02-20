@@ -1,0 +1,80 @@
+{
+    "manufacturer": "",
+    "name": "6-SPST Switch",
+    "pins": {
+        "0a8421a7-1098-47ea-9f17-6e8d6c4304c7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "1437d237-7f62-40fb-9845-0023915e7b49": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "23049cd2-b2d9-4043-8042-cd56b05a117e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "49578524-71df-41f0-9a69-45c2218138e2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "10",
+            "swap_group": 0
+        },
+        "53945dc3-a16f-448c-9057-c6bc8c6e0961": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "12",
+            "swap_group": 0
+        },
+        "69aee1f5-13df-4d44-b5dc-9b0d6cb978ec": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "7",
+            "swap_group": 0
+        },
+        "6e89f95f-f3c9-408e-a73f-baf5570cb82f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "9835862f-a7c9-4080-8188-dd1ae2f384e1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "b3b52760-d56b-4a06-9c1c-41eb4b905e73": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "11",
+            "swap_group": 0
+        },
+        "c03d339f-43fa-4e6d-8cba-89ceced5b066": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "e5acc3d4-161e-4922-a305-b716469682ee": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "f0ae54f0-09e2-45e2-9a61-79bd347375ae": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "07dee3ab-4d2c-47c7-b08b-12f54760de15"
+}
