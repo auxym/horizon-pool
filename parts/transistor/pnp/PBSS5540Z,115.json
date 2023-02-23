@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "PBSS5540Z,115"
+    ],
+    "datasheet": [
+        false,
+        "https://assets.nexperia.com/documents/data-sheet/PBSS5540Z.pdf"
+    ],
+    "description": [
+        false,
+        "40 V low VCEsat PNP Transistor"
+    ],
+    "entity": "f2443156-b218-4979-b244-20ef0bf2476a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "1c4377f2-2789-4b2c-b94b-c08645583d2e",
+    "package": "ca5d9f54-a411-4cee-abbb-7cc278bc91c8",
+    "pad_map": {
+        "054f29e1-f03d-4150-926a-789da437d5bd": {
+            "gate": "40ce877c-ec96-4b42-acad-4860f7587fd1",
+            "pin": "6bd7bb7b-95c6-4ed4-9a71-55f5e3b72a92"
+        },
+        "41454731-8468-4e57-be99-a40cff48376c": {
+            "gate": "40ce877c-ec96-4b42-acad-4860f7587fd1",
+            "pin": "7c4ac8a6-e267-48cd-89d5-28ed30de088a"
+        },
+        "aab39acd-7b1b-4524-a679-931ff77c0e4b": {
+            "gate": "40ce877c-ec96-4b42-acad-4860f7587fd1",
+            "pin": "f915c514-c206-40fc-8a4a-46a259d4f80e"
+        },
+        "bd48c805-e32c-4720-a532-f40c01052ca6": {
+            "gate": "40ce877c-ec96-4b42-acad-4860f7587fd1",
+            "pin": "7c4ac8a6-e267-48cd-89d5-28ed30de088a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "bjt",
+        "pnp",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "16617326-c92f-4cfe-b5bd-a4600749430c",
+    "value": [
+        false,
+        ""
+    ]
+}
