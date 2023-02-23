@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "1N4150W-E3-18"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Small Signal Fast Switching Diode"
+    ],
+    "entity": "c44a773c-cdf5-4193-b5be-ab54952f3f28",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "ab69a6c2-dd3e-4db4-964a-f18f80f5abdc",
+    "orderable_MPNs": {
+        "d7257f61-2812-448c-a452-ffd650a4174d": "1N4150W-E3-18"
+    },
+    "package": "226c3c69-79aa-4e87-8eea-51463ac9f278",
+    "pad_map": {
+        "8133a3f5-6d99-4dc4-a354-b6c84ef34797": {
+            "gate": "e5da453c-ba97-4fa0-8e05-5f6b4e026f87",
+            "pin": "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de"
+        },
+        "c65252bd-3d5d-4ec5-b5a4-0db825f07a51": {
+            "gate": "e5da453c-ba97-4fa0-8e05-5f6b4e026f87",
+            "pin": "16ee5a5c-8eea-4447-ad48-04d973776e3a"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "26441390-2dd1-4bee-8359-1277de980933",
+    "value": [
+        false,
+        ""
+    ]
+}
