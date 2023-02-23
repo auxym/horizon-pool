@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Broadcom",
+    "name": "HCNR200",
+    "pins": {
+        "7c84c43d-2e9d-4129-b807-cad5f2f8686c": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PD2_A",
+            "swap_group": 0
+        },
+        "935bef13-a06d-4042-b101-1fe0c5900d23": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PD2_C",
+            "swap_group": 0
+        },
+        "a30335f6-b4d0-4729-a2ff-09dd1c5fe929": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LED_C",
+            "swap_group": 0
+        },
+        "aa195d2a-6518-4189-aa03-385a8889fa4d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PD1_A",
+            "swap_group": 0
+        },
+        "e06113b5-da56-4a09-82ca-7cfb8f9d3176": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "LED_A",
+            "swap_group": 0
+        },
+        "e5d22a5a-32c8-4aef-96b6-c9863f5cc8f3": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "PD1_C",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7a0b4e8f-5233-4979-8f6d-60db5eb4fada"
+}

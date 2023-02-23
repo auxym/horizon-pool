@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "cb2df251-1039-4d09-8c81-9ba1bf49c708": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "7a0b4e8f-5233-4979-8f6d-60db5eb4fada"
+        }
+    },
+    "manufacturer": "Broadcom",
+    "name": "HCNR200",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "opto"
+    ],
+    "type": "entity",
+    "uuid": "4cc5a420-871c-469e-aaee-d3baab04c8e1"
+}

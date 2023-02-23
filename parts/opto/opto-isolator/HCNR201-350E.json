@@ -1,0 +1,64 @@
+{
+    "MPN": [
+        false,
+        "HCNR201-350E"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "High Linearity Analog Optocoupler"
+    ],
+    "entity": "4cc5a420-871c-469e-aaee-d3baab04c8e1",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Broadcom"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "a818a7f8-b8d6-4196-a00e-8a8762fa55b0": "HCNR201-350E"
+    },
+    "package": "bc8453c4-c5c1-4c32-ba96-d965f329f404",
+    "pad_map": {
+        "2b58e833-440b-4f59-88a1-d7ebae91856e": {
+            "gate": "cb2df251-1039-4d09-8c81-9ba1bf49c708",
+            "pin": "aa195d2a-6518-4189-aa03-385a8889fa4d"
+        },
+        "6945c6ef-5257-41be-934c-4bdee325c02b": {
+            "gate": "cb2df251-1039-4d09-8c81-9ba1bf49c708",
+            "pin": "935bef13-a06d-4042-b101-1fe0c5900d23"
+        },
+        "773dfe25-bdab-4185-813e-4865a5b3e17a": {
+            "gate": "cb2df251-1039-4d09-8c81-9ba1bf49c708",
+            "pin": "e5d22a5a-32c8-4aef-96b6-c9863f5cc8f3"
+        },
+        "82404a0d-0dba-4c01-be14-ccd1e624acb3": {
+            "gate": "cb2df251-1039-4d09-8c81-9ba1bf49c708",
+            "pin": "a30335f6-b4d0-4729-a2ff-09dd1c5fe929"
+        },
+        "bb591fe4-d11c-4fd3-b4fa-ea95f65bf5a8": {
+            "gate": "cb2df251-1039-4d09-8c81-9ba1bf49c708",
+            "pin": "7c84c43d-2e9d-4129-b807-cad5f2f8686c"
+        },
+        "f022e09f-03cc-43e6-a317-8e6da66f78cf": {
+            "gate": "cb2df251-1039-4d09-8c81-9ba1bf49c708",
+            "pin": "e06113b5-da56-4a09-82ca-7cfb8f9d3176"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "opto",
+        "optoisolator"
+    ],
+    "type": "part",
+    "uuid": "ebe295bb-846e-4e75-a2c6-73c08698e0c1",
+    "value": [
+        false,
+        ""
+    ]
+}
