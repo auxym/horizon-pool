@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "PTVS36VP1UP"
+    ],
+    "datasheet": [
+        false,
+        "https://rocelec.widen.net/view/pdf/bahqmxrcjf/NEXP-S-A0003407895-1.pdf"
+    ],
+    "description": [
+        false,
+        "600 W Transient Voltage Suppresor"
+    ],
+    "entity": "c0b101b3-9696-4326-98e3-7a4422d12d6d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "8f20d83e-9830-4f8e-8ebc-df7ad34077ad",
+    "pad_map": {
+        "29a39d7a-e014-48d9-8f68-0e20be09dd5e": {
+            "gate": "09866867-c83e-45e1-9539-4f5645d5927c",
+            "pin": "4805f67b-234b-4dfb-95b3-feb4e0cf9835"
+        },
+        "c7f15936-11bb-48e7-88c2-93ce96fe4f81": {
+            "gate": "09866867-c83e-45e1-9539-4f5645d5927c",
+            "pin": "3c32ea3d-a257-42be-bf81-4113ba2f40db"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "esd",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "b01b3fd1-3655-4936-abaa-c6a6e7e234cc",
+    "value": [
+        false,
+        ""
+    ]
+}

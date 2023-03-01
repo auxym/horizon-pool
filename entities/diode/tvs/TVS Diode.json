@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "09866867-c83e-45e1-9539-4f5645d5927c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "28c02f25-f01b-434e-9cd8-ca8d2deaebea"
+        }
+    },
+    "manufacturer": "",
+    "name": "TVS Diode",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "esd",
+        "tvs"
+    ],
+    "type": "entity",
+    "uuid": "c0b101b3-9696-4326-98e3-7a4422d12d6d"
+}
