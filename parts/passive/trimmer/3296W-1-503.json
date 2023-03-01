@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "3296W-1-503"
+    ],
+    "base": "c4a9745e-3c67-4463-89af-26d476a09551",
+    "datasheet": [
+        true,
+        "https://www.bourns.com/pdfs/3296.pdf"
+    ],
+    "description": [
+        true,
+        "25-Turn Precision Trimmer"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Bourns"
+    ],
+    "model": "5aec0fbd-c042-488e-8526-07ed3286708c",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "930253fd-0cb5-46dd-98f2-380fabfbda61",
+    "value": [
+        false,
+        "50k"
+    ]
+}
