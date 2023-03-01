@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "Solder Jumper"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Solderable jumper"
+    ],
+    "entity": "9606c76c-be3f-4016-825f-e93008267ded",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Generic"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "c16dd3ce-985f-4523-9b10-5ced22fadbfb",
+    "pad_map": {
+        "176a5338-992b-4550-9c51-574cb90a92c1": {
+            "gate": "0fdbb14d-923f-4d33-8361-66af36a08c30",
+            "pin": "746864b1-52cb-4320-813d-744cd6d6c364"
+        },
+        "4506697f-952e-4ea2-8e57-faa305ff3b88": {
+            "gate": "0fdbb14d-923f-4d33-8361-66af36a08c30",
+            "pin": "6c35673f-2530-4130-9f9d-95c3bb319f2f"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "55c73581-0b7f-480b-a51d-bfd512ed2b1c",
+    "value": [
+        false,
+        ""
+    ]
+}

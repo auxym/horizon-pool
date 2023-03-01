@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Jumper",
+    "pins": {
+        "6c35673f-2530-4130-9f9d-95c3bb319f2f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        },
+        "746864b1-52cb-4320-813d-744cd6d6c364": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "b99072a7-77ec-4e24-a0ba-7f8db84fdf90"
+}

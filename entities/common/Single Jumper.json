@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "0fdbb14d-923f-4d33-8361-66af36a08c30": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b99072a7-77ec-4e24-a0ba-7f8db84fdf90"
+        }
+    },
+    "manufacturer": "",
+    "name": "Single Jumper",
+    "prefix": "JP",
+    "tags": [
+        "generic"
+    ],
+    "type": "entity",
+    "uuid": "9606c76c-be3f-4016-825f-e93008267ded"
+}

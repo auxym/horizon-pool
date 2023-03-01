@@ -1,0 +1,158 @@
+{
+    "arcs": {
+        "8684543b-6325-4d7d-85b9-a8d6baae1583": {
+            "center": "01623a86-9749-48d7-9cdb-d17c0e47e5d0",
+            "from": "b41da1ec-b4b4-4359-bc5d-5c64681e875d",
+            "layer": 0,
+            "to": "34a3f502-1d92-4764-bef4-d809a0305fc8",
+            "width": 0
+        },
+        "a5142909-bf85-4cea-8f18-5b29fa560695": {
+            "center": "475e5a3a-7f23-481b-bc85-3db743dd06cb",
+            "from": "606592c8-ad6b-4798-a880-1c058182904b",
+            "layer": 0,
+            "to": "5170a78f-1b80-4627-8ba7-5e720f3024f6",
+            "width": 0
+        },
+        "de79fa32-f249-4b3a-bfaa-9d5e53ef9ded": {
+            "center": "d00e3f7c-cdff-4411-ba17-e15265b39340",
+            "from": "3038a7af-f441-42b1-bc83-355159f6d679",
+            "layer": 0,
+            "to": "be50140d-2d0c-4a51-9b74-ccb46168d90f",
+            "width": 0
+        },
+        "e60d7221-0a52-4d68-82c1-fddc01ab4f91": {
+            "center": "8d0d1b61-20d8-45c5-a032-ba00c7249269",
+            "from": "02a0b04b-9aba-42c7-ae08-880098aa0f56",
+            "layer": 0,
+            "to": "9b377e7d-64d6-4ea8-b797-c51cc6df2f9d",
+            "width": 0
+        },
+        "f8bc1a3e-05af-4684-94c6-3f655671118a": {
+            "center": "8d0d1b61-20d8-45c5-a032-ba00c7249269",
+            "from": "9b377e7d-64d6-4ea8-b797-c51cc6df2f9d",
+            "layer": 0,
+            "to": "02a0b04b-9aba-42c7-ae08-880098aa0f56",
+            "width": 0
+        }
+    },
+    "can_expand": false,
+    "junctions": {
+        "01623a86-9749-48d7-9cdb-d17c0e47e5d0": {
+            "position": [
+                2500000,
+                0
+            ]
+        },
+        "02a0b04b-9aba-42c7-ae08-880098aa0f56": {
+            "position": [
+                -3000000,
+                0
+            ]
+        },
+        "3038a7af-f441-42b1-bc83-355159f6d679": {
+            "position": [
+                2500000,
+                1250000
+            ]
+        },
+        "34a3f502-1d92-4764-bef4-d809a0305fc8": {
+            "position": [
+                3000000,
+                0
+            ]
+        },
+        "475e5a3a-7f23-481b-bc85-3db743dd06cb": {
+            "position": [
+                2500000,
+                0
+            ]
+        },
+        "5170a78f-1b80-4627-8ba7-5e720f3024f6": {
+            "position": [
+                2000000,
+                0
+            ]
+        },
+        "606592c8-ad6b-4798-a880-1c058182904b": {
+            "position": [
+                3000000,
+                0
+            ]
+        },
+        "8d0d1b61-20d8-45c5-a032-ba00c7249269": {
+            "position": [
+                -2500000,
+                0
+            ]
+        },
+        "9b377e7d-64d6-4ea8-b797-c51cc6df2f9d": {
+            "position": [
+                -2000000,
+                0
+            ]
+        },
+        "b41da1ec-b4b4-4359-bc5d-5c64681e875d": {
+            "position": [
+                2000000,
+                0
+            ]
+        },
+        "be50140d-2d0c-4a51-9b74-ccb46168d90f": {
+            "position": [
+                -2499999,
+                1250000
+            ]
+        },
+        "d00e3f7c-cdff-4411-ba17-e15265b39340": {
+            "position": [
+                0,
+                -2500000
+            ]
+        }
+    },
+    "lines": {},
+    "name": "Jumper",
+    "pins": {
+        "6c35673f-2530-4130-9f9d-95c3bb319f2f": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "right",
+            "pad_visible": false,
+            "position": [
+                5000000,
+                0
+            ]
+        },
+        "746864b1-52cb-4320-813d-744cd6d6c364": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 2500000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "left",
+            "pad_visible": false,
+            "position": [
+                -5000000,
+                0
+            ]
+        }
+    },
+    "polygons": {},
+    "text_placements": {},
+    "texts": {},
+    "type": "symbol",
+    "unit": "b99072a7-77ec-4e24-a0ba-7f8db84fdf90",
+    "uuid": "11f805d9-4def-4647-b745-633879b32189"
+}
