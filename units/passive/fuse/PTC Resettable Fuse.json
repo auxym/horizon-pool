@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "PTC Resettable Fuse",
+    "pins": {
+        "04e646f3-a508-46b6-96fa-f7f3c921eb47": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "61ea6d4d-3458-4096-8fd2-abf298710aa7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "521c2276-80df-4313-8747-1b25142a51a1"
+}

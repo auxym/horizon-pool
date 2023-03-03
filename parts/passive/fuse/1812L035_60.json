@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "1812L035/60"
+    ],
+    "datasheet": [
+        false,
+        "https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_1812l_datasheet.pdf.pdf"
+    ],
+    "description": [
+        false,
+        "PTC 1812 fuse 60 V 350 mA"
+    ],
+    "entity": "aa6f6043-ad7c-4564-9671-6defbb56b06b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Littelfuse"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "f835f8cf-7f30-40b8-92ce-23964e33b51e": "1812L035/60MR"
+    },
+    "package": "93857dc9-6e96-4682-8345-9ad5c2362d69",
+    "pad_map": {
+        "aa732cd2-043c-464e-b54c-dd98ca25f20c": {
+            "gate": "14db4f5a-0bf8-4371-af03-5a3eaacec149",
+            "pin": "61ea6d4d-3458-4096-8fd2-abf298710aa7"
+        },
+        "d1627155-3701-4f40-93bd-e783dff35f27": {
+            "gate": "14db4f5a-0bf8-4371-af03-5a3eaacec149",
+            "pin": "04e646f3-a508-46b6-96fa-f7f3c921eb47"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "fuse",
+        "polyfuse",
+        "ptc"
+    ],
+    "type": "part",
+    "uuid": "13d44eb1-5a0b-4130-99f9-59ef5f8c6848",
+    "value": [
+        false,
+        "350 mA"
+    ]
+}

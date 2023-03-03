@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "14db4f5a-0bf8-4371-af03-5a3eaacec149": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "521c2276-80df-4313-8747-1b25142a51a1"
+        }
+    },
+    "manufacturer": "",
+    "name": "PTC Resettable Fuse",
+    "prefix": "F",
+    "tags": [
+        "fuse",
+        "polyfuse",
+        "ptc"
+    ],
+    "type": "entity",
+    "uuid": "aa6f6043-ad7c-4564-9671-6defbb56b06b"
+}
