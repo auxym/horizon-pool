@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "1225AS-H-4R7M=P2"
+    ],
+    "datasheet": [
+        false,
+        "https://www.murata.com/~/media/webrenewal/products/inductor/chip/tokoproducts/wirewoundferritetypeforpl/m_dem2812c.ashx"
+    ],
+    "description": [
+        false,
+        "Ferrite Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Murata"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "beb53a4d-ebfe-43c0-9751-41f8ce0b5f9c",
+    "pad_map": {
+        "072264bb-6780-4edd-b31f-80f2104ce948": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "5d6e3696-b54c-455a-8895-117174382491": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "58fde7d2-ebc8-4cc0-b6dc-2a33a5e28a52",
+    "value": [
+        false,
+        "4.7 μH"
+    ]
+}
