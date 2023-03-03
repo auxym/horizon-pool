@@ -1,0 +1,51 @@
+{
+    "manufacturer": "Traco Power",
+    "name": "TEC 2WI",
+    "pins": {
+        "031b7d79-35e1-4af3-ac88-bed485f256e7": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "COM",
+            "swap_group": 0
+        },
+        "71e55e05-4fa2-44ea-814d-c0f8adbe4113": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "Vout-",
+            "swap_group": 0
+        },
+        "7357b323-946b-43c6-8ada-e012774ccdb2": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vcc",
+            "swap_group": 0
+        },
+        "c2960a1b-e5db-4392-83fd-c103848b1699": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "Vout+",
+            "swap_group": 0
+        },
+        "e4501cee-a9ac-4565-a736-2ac789fc7330": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "e6fb71d1-5c13-4d90-9397-26c886a132b0": {
+            "alt_names": {
+                "fcfe1a13-d3bc-4499-be45-b090b6375cbc": {
+                    "direction": "input",
+                    "name": "Remote ON/OFF"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1dd3cd06-434b-43bb-91b1-2661c854d4e8",
+    "version": 1
+}

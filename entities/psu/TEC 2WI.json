@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "ac1c79a4-81a7-4a98-8271-db3e00f4f8a0": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1dd3cd06-434b-43bb-91b1-2661c854d4e8"
+        }
+    },
+    "manufacturer": "Traco Power",
+    "name": "TEC 2WI",
+    "prefix": "PS",
+    "tags": [
+        "dcdc",
+        "power",
+        "powersupply",
+        "psu"
+    ],
+    "type": "entity",
+    "uuid": "e78805f0-ccfc-40ed-ad07-0f030a701a71"
+}

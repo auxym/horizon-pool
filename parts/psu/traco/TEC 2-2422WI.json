@@ -1,0 +1,60 @@
+{
+    "MPN": [
+        false,
+        "TEC 2-2422WI"
+    ],
+    "datasheet": [
+        false,
+        "https://www.tracopower.com/products/tec2wi.pdf"
+    ],
+    "description": [
+        false,
+        "DC/DC Converter 24 V 2W"
+    ],
+    "entity": "e78805f0-ccfc-40ed-ad07-0f030a701a71",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Traco Power"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0a552e26-10d7-40dd-81c0-4c1b45b3827f",
+    "pad_map": {
+        "416e65eb-671d-4798-b048-b34603890afa": {
+            "gate": "ac1c79a4-81a7-4a98-8271-db3e00f4f8a0",
+            "pin": "71e55e05-4fa2-44ea-814d-c0f8adbe4113"
+        },
+        "7f59cc10-c3bf-42b1-bf8f-43083a3324c4": {
+            "gate": "ac1c79a4-81a7-4a98-8271-db3e00f4f8a0",
+            "pin": "e4501cee-a9ac-4565-a736-2ac789fc7330"
+        },
+        "8800f0a6-6a4d-466f-880c-883765d41256": {
+            "gate": "ac1c79a4-81a7-4a98-8271-db3e00f4f8a0",
+            "pin": "e6fb71d1-5c13-4d90-9397-26c886a132b0"
+        },
+        "8de4f868-249d-427f-a963-d961dc7d6c91": {
+            "gate": "ac1c79a4-81a7-4a98-8271-db3e00f4f8a0",
+            "pin": "031b7d79-35e1-4af3-ac88-bed485f256e7"
+        },
+        "d6af89f2-0bf2-4b91-9f24-a080fd3feccd": {
+            "gate": "ac1c79a4-81a7-4a98-8271-db3e00f4f8a0",
+            "pin": "c2960a1b-e5db-4392-83fd-c103848b1699"
+        },
+        "dacd8d23-d1a7-4f67-a979-4a6461148c98": {
+            "gate": "ac1c79a4-81a7-4a98-8271-db3e00f4f8a0",
+            "pin": "7357b323-946b-43c6-8ada-e012774ccdb2"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "psu"
+    ],
+    "type": "part",
+    "uuid": "128dc9f5-739f-418e-9b42-955d8069fa98",
+    "value": [
+        false,
+        ""
+    ]
+}
