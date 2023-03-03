@@ -1,0 +1,26 @@
+{
+    "manufacturer": "Nexperia",
+    "name": "PESDxU1UT",
+    "pins": {
+        "086377de-a3ea-4af0-8e13-52c24c654781": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Kc",
+            "swap_group": 0
+        },
+        "5249c047-54e6-4eb3-b8aa-5f4932df3015": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Kesd",
+            "swap_group": 0
+        },
+        "9f4ebd24-ce2f-4cd6-a90e-2beae3eab1e3": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "c42d5ee4-68c5-4c88-a46d-6bb44117d854"
+}
