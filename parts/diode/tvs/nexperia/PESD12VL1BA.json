@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "PESD12VL1BA"
+    ],
+    "datasheet": [
+        false,
+        "https://assets.nexperia.com/documents/data-sheet/PESDXL1BA_SER.pdf"
+    ],
+    "description": [
+        false,
+        "Low capacitance bidirectional ESD protection diode 12 V"
+    ],
+    "entity": "8d8df659-52f0-486e-adbd-854f8114b8e3",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "bdafba99-5da8-42b8-8beb-7235f01d7a53",
+    "package": "16e0f97b-6b1d-4db0-92db-b406575a380b",
+    "pad_map": {
+        "773a74e2-ed84-43cc-b514-788422dbe101": {
+            "gate": "200c350a-00f3-440b-b068-6183998409db",
+            "pin": "4805f67b-234b-4dfb-95b3-feb4e0cf9835"
+        },
+        "d3f91326-042a-4549-b2dd-5b7b45431266": {
+            "gate": "200c350a-00f3-440b-b068-6183998409db",
+            "pin": "3c32ea3d-a257-42be-bf81-4113ba2f40db"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "esd",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "93799997-04c2-4c54-b56b-5fc3998b2948",
+    "value": [
+        false,
+        ""
+    ]
+}
