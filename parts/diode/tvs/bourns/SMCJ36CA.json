@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "SMCJ36CA"
+    ],
+    "datasheet": [
+        false,
+        "https://www.bourns.com/docs/Product-Datasheets/SMCJ.pdf"
+    ],
+    "description": [
+        false,
+        "36 V bidirectional transient voltage suppressor"
+    ],
+    "entity": "8d8df659-52f0-486e-adbd-854f8114b8e3",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bourns"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "4309f8e5-9bb0-413c-b240-d978b82f8303",
+    "pad_map": {
+        "54765707-8fed-449b-84f1-781d68397e65": {
+            "gate": "200c350a-00f3-440b-b068-6183998409db",
+            "pin": "4805f67b-234b-4dfb-95b3-feb4e0cf9835"
+        },
+        "57084f3d-b0d8-4fc6-96a3-73fca5de3b21": {
+            "gate": "200c350a-00f3-440b-b068-6183998409db",
+            "pin": "3c32ea3d-a257-42be-bf81-4113ba2f40db"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "esd",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "f3aca121-a6b2-4eec-8cb0-7cf4fe6ad720",
+    "value": [
+        false,
+        ""
+    ]
+}

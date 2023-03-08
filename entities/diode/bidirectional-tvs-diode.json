@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "200c350a-00f3-440b-b068-6183998409db": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3f2a0812-b8c6-46cc-93b8-aa4607bed51f"
+        }
+    },
+    "manufacturer": "",
+    "name": "Bidirectional TVS Diode",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "esd"
+    ],
+    "type": "entity",
+    "uuid": "8d8df659-52f0-486e-adbd-854f8114b8e3"
+}
