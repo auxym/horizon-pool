@@ -1,0 +1,59 @@
+{
+    "MPN": [
+        false,
+        "TBP03R1-350-06-BE"
+    ],
+    "datasheet": [
+        false,
+        "https://www.cuidevices.com/product/resource/tbp03r1-350.pdf"
+    ],
+    "description": [
+        false,
+        "Pluggable Terminal Block"
+    ],
+    "entity": "c92588a0-86ac-4b1c-aa07-b591777d2617",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5c0e285e-e03b-4a05-ad10-9ef3ac193efa",
+    "pad_map": {
+        "43582f5e-f969-4348-aae2-04afccb25dda": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "dd9ef2c9-0256-4f19-b1a9-2a4dffd82261"
+        },
+        "51684566-117f-45a0-b539-87e60d6e3137": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "203bb8a2-729f-4d85-9078-2023b941401f"
+        },
+        "8f71d7a6-2fb1-45c7-b320-b530aece96d9": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "d5465e9d-439d-4a9c-b2a6-9ff92edf1f63"
+        },
+        "b47b8308-2466-4e48-bd7d-cdf825a2c96b": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "b8924622-e129-4d44-a4ec-46cccc6fbcaf"
+        },
+        "cf2c948e-fe6c-4c2a-8aba-872f3e46b8af": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "c3b4ba45-ad58-43eb-9709-a71e815d9012"
+        },
+        "dac67c9f-631b-4d50-829d-ab978080d17e": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "4b24441b-cbeb-49bc-9a30-277a9a11c2b6"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "4f106c8c-f721-48bf-8bec-fe7e0b27c697",
+    "value": [
+        false,
+        ""
+    ]
+}
