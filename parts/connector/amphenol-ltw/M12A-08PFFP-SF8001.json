@@ -1,0 +1,67 @@
+{
+    "MPN": [
+        false,
+        "M12A-08PFFP-SF8001"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "M12A Female Connector"
+    ],
+    "entity": "771a429f-983f-4758-b6d4-80e107ae9f8e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Amphenol LTW"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "9f42d0e2-432d-4aaa-8a3e-96e5a37ff774",
+    "pad_map": {
+        "0f1a5068-585a-430a-a8ec-b3591bc49ca9": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "01ff6735-94f0-415a-9ce6-55b0515c1cd1"
+        },
+        "10a72cfd-cf42-4810-824d-2f95bdf21aa3": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "fa73ec1a-10bc-4280-aa96-1b222e566826"
+        },
+        "11acf95e-bcc7-4a7a-bd67-10e12ad15c94": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "1a7a9b72-a0d1-4ee1-91f9-45265c2b41bb"
+        },
+        "21fa3c36-d4fa-456b-8e68-71e922086730": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "65a73301-97c0-40b6-8138-4fcd12815dc0"
+        },
+        "440c1c2c-adab-4f7c-8018-f278ef8bf25c": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "394fe994-72b0-4e01-9a0b-c463902d55e8"
+        },
+        "71cfdf87-1eee-4e72-a4d6-c92d1b5f4728": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e137d258-e055-4644-b9a5-fad874553ddf"
+        },
+        "79fc6f14-28e5-4e54-bb10-ffe3be5b1c6c": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e95ff9ae-5dce-4a5d-bc8a-158c688b9a0e"
+        },
+        "85d7a5b4-306b-42cc-9463-d431aa16ba48": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "3256695a-0b7e-4ed5-a6e6-4f9afb354f54"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "a0538ef4-0d5d-42c9-a879-e43d04e1e69e",
+    "value": [
+        false,
+        ""
+    ]
+}
