@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "cecc8642-27fd-429b-83b9-9eb41a389c54": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "1e3ef433-42a2-4359-8dd2-8490f146ee7e"
+        }
+    },
+    "manufacturer": "Adafruit",
+    "name": "4062 Feather nRF52 Express",
+    "prefix": "U",
+    "tags": [
+        "ble",
+        "mcu",
+        "module"
+    ],
+    "type": "entity",
+    "uuid": "ef0d5a20-5e6a-439a-af1b-3b1106c60cbf"
+}

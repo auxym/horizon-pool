@@ -1,0 +1,176 @@
+{
+    "manufacturer": "Adafruit",
+    "name": "4062 Feather nRF52 Express",
+    "pins": {
+        "058dde15-424a-44fc-a2a2-e1234e5600f9": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A0",
+            "swap_group": 0
+        },
+        "072091a4-da57-498e-b80a-b7aa4ce2752a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D5",
+            "swap_group": 0
+        },
+        "116c5886-c59a-4db3-9ebd-61ab454b130b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D10",
+            "swap_group": 0
+        },
+        "21cc16e1-00b2-4f6a-85ef-0d81c952c2e0": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "MOSI",
+            "swap_group": 0
+        },
+        "3298ca9d-cc28-4ae0-b026-bd47112a40b1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A4",
+            "swap_group": 0
+        },
+        "36084ca7-f7a1-45a9-8c1f-69d2ce35f729": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "3dd45985-4966-4392-85ef-f5ece8d6ae0e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "3ecc79ef-513c-4e3c-8105-4efe2e931d4a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VBUS",
+            "swap_group": 0
+        },
+        "475d12a9-7adc-4106-9e52-566b514cce95": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "4bc14ad6-07bc-4f3d-afcf-5ba466b5617f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D2",
+            "swap_group": 0
+        },
+        "532dd570-4796-4e7e-950c-0c5f43959007": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "58357164-2780-46d6-a0f6-7c94f83287d1": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "AREF",
+            "swap_group": 0
+        },
+        "60344973-eba6-410d-b4ee-675ba83a8009": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MISO",
+            "swap_group": 0
+        },
+        "76ce4b1b-1556-4ab7-8717-9c4bc9f3682a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SCK",
+            "swap_group": 0
+        },
+        "92fcd5c3-5c06-4441-aaf8-89c5ff715c53": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D9",
+            "swap_group": 0
+        },
+        "98f3487a-6105-4235-a49e-190258b5eccd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VBAT",
+            "swap_group": 0
+        },
+        "ae0ed6d1-e118-471d-938a-28ffe0c3addb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TX",
+            "swap_group": 0
+        },
+        "b144ae7e-2d2c-45db-8522-c803072be3ab": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D11",
+            "swap_group": 0
+        },
+        "b968f8bb-711e-4bfc-8494-50c1ffabfdbd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RX",
+            "swap_group": 0
+        },
+        "bdb32881-bff9-45bc-b2ac-3c3cf06b82c2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A3",
+            "swap_group": 0
+        },
+        "c02378a2-2e7a-414c-9788-af7e079b8065": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "d09a8a39-cb25-4ef4-98e0-6b7974ebbd7b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D13",
+            "swap_group": 0
+        },
+        "dccd2d49-ff77-447f-b468-aef116edf914": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A5",
+            "swap_group": 0
+        },
+        "dce10e45-1ec7-4038-bfe6-1e8146732b2b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D12",
+            "swap_group": 0
+        },
+        "eab9e3ab-6a14-4317-a8b7-7dbe402f8b41": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "f5262dd5-8f1a-46e2-b53a-a28f13172e41": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3.3V",
+            "swap_group": 0
+        },
+        "ff025e89-f637-4e44-8ea0-4b70a75fae36": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RST",
+            "swap_group": 0
+        },
+        "ff4cc6fb-f082-44c6-b789-351dabb70f57": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "D6",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "1e3ef433-42a2-4359-8dd2-8490f146ee7e"
+}
