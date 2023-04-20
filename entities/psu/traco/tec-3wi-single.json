@@ -1,0 +1,21 @@
+{
+    "gates": {
+        "82a3fdac-058b-46ed-8019-9ec596932c20": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8e24617a-6f68-4ec6-83ec-e225c837986a"
+        }
+    },
+    "manufacturer": "Traco",
+    "name": "TEC 3WI Single Output",
+    "prefix": "PS",
+    "tags": [
+        "dcdc",
+        "power",
+        "powersupply",
+        "psu"
+    ],
+    "type": "entity",
+    "uuid": "fd608ca0-d765-4a26-915d-2b064189ecbc"
+}

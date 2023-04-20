@@ -112,7 +112,7 @@
     "name": "TEC 2WI",
     "pads": {
         "416e65eb-671d-4798-b048-b34603890afa": {
-            "name": "7",
+            "name": "8",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
                 "hole_diameter": 800000,
@@ -161,7 +161,7 @@
             }
         },
         "8de4f868-249d-427f-a963-d961dc7d6c91": {
-            "name": "6",
+            "name": "7",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
                 "hole_diameter": 800000,
@@ -177,7 +177,7 @@
             }
         },
         "d6af89f2-0bf2-4b91-9f24-a080fd3feccd": {
-            "name": "5",
+            "name": "6",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
                 "hole_diameter": 800000,
@@ -209,7 +209,7 @@
             }
         },
         "e1fa90d0-e86f-46c2-9e6d-2c5a932c6a92": {
-            "name": "4",
+            "name": "5",
             "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
             "parameter_set": {
                 "hole_diameter": 800000,

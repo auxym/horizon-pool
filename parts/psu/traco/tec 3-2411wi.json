@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "TEC 3-2411WI"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "DC/DC Converter 5V 3W"
+    ],
+    "entity": "fd608ca0-d765-4a26-915d-2b064189ecbc",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Traco"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0a552e26-10d7-40dd-81c0-4c1b45b3827f",
+    "pad_map": {
+        "7f59cc10-c3bf-42b1-bf8f-43083a3324c4": {
+            "gate": "82a3fdac-058b-46ed-8019-9ec596932c20",
+            "pin": "031b7d79-35e1-4af3-ac88-bed485f256e7"
+        },
+        "8800f0a6-6a4d-466f-880c-883765d41256": {
+            "gate": "82a3fdac-058b-46ed-8019-9ec596932c20",
+            "pin": "e4501cee-a9ac-4565-a736-2ac789fc7330"
+        },
+        "8de4f868-249d-427f-a963-d961dc7d6c91": {
+            "gate": "82a3fdac-058b-46ed-8019-9ec596932c20",
+            "pin": "71e55e05-4fa2-44ea-814d-c0f8adbe4113"
+        },
+        "d6af89f2-0bf2-4b91-9f24-a080fd3feccd": {
+            "gate": "82a3fdac-058b-46ed-8019-9ec596932c20",
+            "pin": "c2960a1b-e5db-4392-83fd-c103848b1699"
+        },
+        "dacd8d23-d1a7-4f67-a979-4a6461148c98": {
+            "gate": "82a3fdac-058b-46ed-8019-9ec596932c20",
+            "pin": "e6fb71d1-5c13-4d90-9397-26c886a132b0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "psu",
+        "th"
+    ],
+    "type": "part",
+    "uuid": "4fe3d90b-b221-4069-9aea-d1ea83c251f7",
+    "value": [
+        false,
+        ""
+    ]
+}
