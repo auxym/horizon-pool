@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "TBL-009V-254-04"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "4 Position vertical fixed 2.54 mm terminal block"
+    ],
+    "entity": "64ffe153-20d8-4902-9321-1f18027cb84d",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "CUI"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "9cef9852-c041-41ad-9ac8-f4df773c2fe2",
+    "pad_map": {
+        "09112a77-440d-4139-b48e-d610be24274e": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "0da08c47-12e6-4407-a3a6-f1c16d31fe95": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "17f7206a-907c-4037-9c10-236c82968559": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "21041ad4-1aea-4545-acea-329c53ce35f7": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "b3ee56fd-5c49-48da-8c2b-5644a793af05": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "deb74061-0b89-473e-b4c5-40c485e1ce41": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "dfdcbf84-b143-4109-8d4d-4b56256c2738": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        },
+        "e0102363-ed46-4db5-be56-6a9330c898d1": {
+            "gate": "a96a662e-2077-467f-9853-a01865f76ad6",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "terminalblock"
+    ],
+    "type": "part",
+    "uuid": "77f94c41-e585-477e-a293-d3e6dc58eeba",
+    "value": [
+        false,
+        ""
+    ]
+}
