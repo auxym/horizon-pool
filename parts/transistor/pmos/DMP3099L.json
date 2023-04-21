@@ -1,24 +1,28 @@
 {
     "MPN": [
         false,
-        "TSM650P02CX RFG"
+        "DMP3099L"
     ],
     "datasheet": [
         false,
-        "https://www.taiwansemi.com/assets/uploads/datasheet/TSM650P02CX_B1811.pdf"
+        "https://www.diodes.com/assets/Datasheets/DMP3099L.pdf"
     ],
     "description": [
         false,
-        "20V P-Channel Power MOSFET"
+        "P-channel MOSFET, -30V, -3.8A, 65mΩ"
     ],
     "entity": "f1cafe55-ca30-4a2f-9c9e-ae06f9ea7859",
-    "inherit_model": false,
+    "inherit_model": true,
     "inherit_tags": false,
     "manufacturer": [
         false,
-        "Taiwan Semiconductor"
+        "Diodes Inc."
     ],
     "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "orderable_MPNs": {
+        "00083c25-3e2b-466f-877f-631779bfccda": "DMP3099L-13",
+        "2da6e1c4-50f4-4cc4-bd00-d7170daad70b": "DMP3099L-7"
+    },
     "package": "a37e4931-af72-4de0-b4e4-0357747ba44d",
     "pad_map": {
         "531c3759-a1b6-40c6-9474-5554dc94bcec": {
@@ -38,10 +42,11 @@
     "tags": [
         "mosfet",
         "p-channel",
-        "smd"
+        "smd",
+        "transistor"
     ],
     "type": "part",
-    "uuid": "8686c6f7-2d94-46ec-bd9f-999c67ef3231",
+    "uuid": "cc5ebbec-0032-49f3-92bd-37853ebe5a2d",
     "value": [
         false,
         ""

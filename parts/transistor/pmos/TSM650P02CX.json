@@ -1,24 +1,27 @@
 {
     "MPN": [
         false,
-        "AO3401A"
+        "TSM650P02CX"
     ],
     "datasheet": [
         false,
-        "http://aosmd.com/pdfs/datasheet/AO3401A.pdf"
+        "https://www.taiwansemi.com/assets/uploads/datasheet/TSM650P02CX_B1811.pdf"
     ],
     "description": [
         false,
-        "P-channel MOSFET, -30V, -4A, 50mΩ"
+        "P-channel MOSFET, -20V, -4.1A, 65mΩ"
     ],
     "entity": "f1cafe55-ca30-4a2f-9c9e-ae06f9ea7859",
     "inherit_model": false,
     "inherit_tags": false,
     "manufacturer": [
         false,
-        "Alpha & Omega Semiconductor"
+        "Taiwan Semiconductor"
     ],
     "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "orderable_MPNs": {
+        "ba77ac22-2835-41a8-ad43-960aef5c63e2": "TSM650P02CX RFG"
+    },
     "package": "a37e4931-af72-4de0-b4e4-0357747ba44d",
     "pad_map": {
         "531c3759-a1b6-40c6-9474-5554dc94bcec": {
@@ -42,7 +45,7 @@
         "transistor"
     ],
     "type": "part",
-    "uuid": "f296c878-ba0a-429b-ab69-dceb4f390207",
+    "uuid": "8686c6f7-2d94-46ec-bd9f-999c67ef3231",
     "value": [
         false,
         ""
