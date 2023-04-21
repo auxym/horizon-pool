@@ -1,0 +1,104 @@
+{
+    "manufacturer": "Analog Devices",
+    "name": "ADM202E",
+    "pins": {
+        "081daba4-8cb3-42bc-af29-11989efd13f2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "R1-in",
+            "swap_group": 0
+        },
+        "0ee961dc-2896-4cc4-8757-061cca27e43a": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "V+",
+            "swap_group": 0
+        },
+        "384ed99b-7c0b-4b0d-8022-8ea891d725db": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "R1-out",
+            "swap_group": 0
+        },
+        "4cab4db9-39e4-4b21-aeb4-afc5d2908202": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C2+",
+            "swap_group": 0
+        },
+        "521c600d-52fc-4d0b-b4e0-a2d2714ab8f1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C1+",
+            "swap_group": 0
+        },
+        "7cd4ff7e-c097-4487-a081-504448bc0586": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "T2-in",
+            "swap_group": 0
+        },
+        "83fe9fa1-9346-4d1e-888d-7d39ff380398": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "8ad45548-33fc-48bd-9da8-85e1d65ab2ab": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "R2-out",
+            "swap_group": 0
+        },
+        "90187a9e-abf4-45a4-aea7-d164218c6904": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "V-",
+            "swap_group": 0
+        },
+        "a16dc8ac-9a93-4cf3-9456-69b4f95105c5": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "T2-out",
+            "swap_group": 0
+        },
+        "b3bc86a6-6433-4f6d-9c78-7aa3f1d51b89": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C2-",
+            "swap_group": 0
+        },
+        "bda94abd-c975-40cb-b7f8-9c932a4dc19d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C1-",
+            "swap_group": 0
+        },
+        "c546da5b-92a6-4c90-8aed-64ca2a821d49": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "T1-out",
+            "swap_group": 0
+        },
+        "cd13ffaf-e3bf-4f3e-aeaf-602559797c24": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "e3618abb-cd01-4403-9b7f-4d012e180930": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "T1-in",
+            "swap_group": 0
+        },
+        "fe1bc88c-574c-471a-a688-fc691c02881e": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "R2-in",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "67ba62cb-0f47-41b8-954f-b1453c09b55a"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "227e781e-0c81-4e16-8848-a3d07add2174": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "67ba62cb-0f47-41b8-954f-b1453c09b55a"
+        }
+    },
+    "manufacturer": "Analog Devices",
+    "name": "ADM202E",
+    "prefix": "U",
+    "tags": [
+        "rs232",
+        "transceiver"
+    ],
+    "type": "entity",
+    "uuid": "40e278ae-58dd-4dab-b6f0-0182bb4f3047"
+}
