@@ -14,13 +14,99 @@
                 1000000,
                 1000000
             ],
-            "spacing_square": 1000000
+            "spacing_square": 250000
         },
         "grids": {}
     },
-    "junctions": {},
+    "junctions": {
+        "1ce9aeb1-40df-4c49-ba0e-3209f959a629": {
+            "position": [
+                -1000000,
+                5500000
+            ]
+        },
+        "20b421ee-4c6c-410f-9173-43ae8f6d7c40": {
+            "position": [
+                1000000,
+                5500000
+            ]
+        },
+        "4e6f4c51-e632-4404-afa2-4c1371b26087": {
+            "position": [
+                1000000,
+                -5500000
+            ]
+        },
+        "83411363-cc17-43ed-a787-b9d8c9d4de97": {
+            "position": [
+                -1750000,
+                5500000
+            ]
+        },
+        "9a6fcd35-560e-4ffc-ba82-0d81a5325f6e": {
+            "position": [
+                -1000000,
+                -5500000
+            ]
+        },
+        "a01c6eca-af76-4673-8750-239358db274c": {
+            "position": [
+                1750000,
+                -5500000
+            ]
+        },
+        "a542094c-1c81-4f17-95b1-cdbdf8f7b871": {
+            "position": [
+                1750000,
+                5500000
+            ]
+        },
+        "fcb727f6-f30c-4aee-bc3d-0ded6e5eeb49": {
+            "position": [
+                -1750000,
+                -5500000
+            ]
+        }
+    },
     "keepouts": {},
-    "lines": {},
+    "lines": {
+        "1d5485ed-242d-475a-9e79-47df9d324071": {
+            "from": "20b421ee-4c6c-410f-9173-43ae8f6d7c40",
+            "layer": 20,
+            "to": "a542094c-1c81-4f17-95b1-cdbdf8f7b871",
+            "width": 150000
+        },
+        "372939f8-b701-4459-975e-9045c97bc255": {
+            "from": "fcb727f6-f30c-4aee-bc3d-0ded6e5eeb49",
+            "layer": 20,
+            "to": "9a6fcd35-560e-4ffc-ba82-0d81a5325f6e",
+            "width": 150000
+        },
+        "4f251e64-77d7-473e-98e1-46de0eb99f4c": {
+            "from": "a542094c-1c81-4f17-95b1-cdbdf8f7b871",
+            "layer": 20,
+            "to": "a01c6eca-af76-4673-8750-239358db274c",
+            "width": 150000
+        },
+        "5c0df760-0253-46f2-977e-9e0cb897823e": {
+            "from": "1ce9aeb1-40df-4c49-ba0e-3209f959a629",
+            "layer": 20,
+            "to": "83411363-cc17-43ed-a787-b9d8c9d4de97",
+            "width": 150000
+        },
+        "e117967e-10dc-4d32-9fcd-b952b7f80d35": {
+            "from": "a01c6eca-af76-4673-8750-239358db274c",
+            "layer": 20,
+            "to": "4e6f4c51-e632-4404-afa2-4c1371b26087",
+            "width": 150000
+        },
+        "fb04dfdb-9551-425f-94db-8ce148382032": {
+            "from": "83411363-cc17-43ed-a787-b9d8c9d4de97",
+            "layer": 20,
+            "to": "fcb727f6-f30c-4aee-bc3d-0ded6e5eeb49",
+            "width": 150000
+        }
+    },
     "manufacturer": "CUI",
     "models": {},
     "name": "MSS-SPDT-2.54-TH",
@@ -204,7 +290,25 @@
         "spdt",
         "switch"
     ],
-    "texts": {},
+    "texts": {
+        "bd6618fb-d614-45c0-85c3-6ac985b9005c": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    -3000000,
+                    2000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
     "type": "package",
     "uuid": "25678788-63e8-4620-82ac-ac4f5dd87166"
 }
