@@ -23,11 +23,11 @@
     "pad_map": {
         "487097d5-96e7-4e99-841a-42e1abf1d9cc": {
             "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
-            "pin": "f3a0ce45-6d5e-453b-9649-33baf57cc7b7"
+            "pin": "3c305ca9-14d3-40b4-a365-8938959c043e"
         },
         "a80c8983-726b-40b0-87a2-ef2e6575ff1b": {
             "gate": "c8168f99-a1ca-4d98-bbb7-066f8cad2346",
-            "pin": "3c305ca9-14d3-40b4-a365-8938959c043e"
+            "pin": "f3a0ce45-6d5e-453b-9649-33baf57cc7b7"
         }
     },
     "parametric": {},
