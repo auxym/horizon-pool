@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "HSCDRRV001PDSA3"
+    ],
+    "datasheet": [
+        false,
+        "https://prod-edam.honeywell.com/content/dam/honeywell-edam/sps/siot/zh-cn/localized/datasheets/sps-siot-trustability-hsc-series-high-accuracy-board-mount-pressure-sensors-50099148-a-ciid-151133-cn.pdf"
+    ],
+    "description": [
+        false,
+        "Pressure Sensor -1PSI ~ 1PSI (-6.89kPa ~ 6.89kPa) Differential Male - 0.08\" (2.03mm) Tube, Dual 8-DIP (0.524\", 13.30mm), Dual Ports, Same Side"
+    ],
+    "entity": "628966ef-51e3-4910-ab77-a3a32b13cd53",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Honeywell"
+    ],
+    "model": "ca6a75b2-dddf-4b3e-8961-89626613409d",
+    "package": "5d812151-3f9b-4f08-8ab9-2e1f77d2a337",
+    "pad_map": {
+        "18eea3e5-b044-40c3-bbb9-c0c5de9183ac": {
+            "gate": "a4e40fb8-cec2-4110-bb11-6cabf6d0b36a",
+            "pin": "6494edae-7361-46c1-9c72-6366cd13d306"
+        },
+        "3d75f904-4225-4ad5-9506-820d3f9fe11c": {
+            "gate": "a4e40fb8-cec2-4110-bb11-6cabf6d0b36a",
+            "pin": "5d7abebc-fb3f-451a-81b3-db63a3e59e6c"
+        },
+        "758ea581-1aa9-4eab-aa2b-c9b49ba64d91": {
+            "gate": "a4e40fb8-cec2-4110-bb11-6cabf6d0b36a",
+            "pin": "c2367f8d-a1ab-45db-a2d9-594e9b5be2b7"
+        },
+        "b7bbf835-adc9-4f0b-918d-2c4d8b209bd0": {
+            "gate": "a4e40fb8-cec2-4110-bb11-6cabf6d0b36a",
+            "pin": "a49cff47-fb02-40e9-9f85-58fbd7a153c0"
+        },
+        "e90eb12d-4806-410c-b014-df6e4a071c8e": {
+            "gate": "a4e40fb8-cec2-4110-bb11-6cabf6d0b36a",
+            "pin": "07a3d7da-7019-4d7f-b86a-dfc830b95059"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "pressure",
+        "sensor"
+    ],
+    "type": "part",
+    "uuid": "a923532c-1889-4ab8-bc99-319463527518",
+    "value": [
+        false,
+        ""
+    ]
+}

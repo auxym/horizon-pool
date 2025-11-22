@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "a4e40fb8-cec2-4110-bb11-6cabf6d0b36a": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "5ec37a44-0d3e-485d-8f06-3cee5177c585"
+        }
+    },
+    "manufacturer": "Honeywell",
+    "name": "TruStability HSC SPI Pressure Sensor",
+    "prefix": "U",
+    "tags": [
+        "pressure",
+        "sensor"
+    ],
+    "type": "entity",
+    "uuid": "628966ef-51e3-4910-ab77-a3a32b13cd53"
+}

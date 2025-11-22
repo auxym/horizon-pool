@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Honeywell",
+    "name": "TruStability HSC SPI Pressure Sensor",
+    "pins": {
+        "07a3d7da-7019-4d7f-b86a-dfc830b95059": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "5d7abebc-fb3f-451a-81b3-db63a3e59e6c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "Vsupply",
+            "swap_group": 0
+        },
+        "6494edae-7361-46c1-9c72-6366cd13d306": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCLK",
+            "swap_group": 0
+        },
+        "a49cff47-fb02-40e9-9f85-58fbd7a153c0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "MISO",
+            "swap_group": 0
+        },
+        "c2367f8d-a1ab-45db-a2d9-594e9b5be2b7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "5ec37a44-0d3e-485d-8f06-3cee5177c585"
+}
