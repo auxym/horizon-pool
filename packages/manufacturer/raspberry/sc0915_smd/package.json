@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "8a4115c1-53d9-4c1e-a19f-1944253523ee",
     "dimensions": {},
     "grid_settings": {
         "current": {
@@ -90,7 +90,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "8a4115c1-53d9-4c1e-a19f-1944253523ee": {
+            "filename": "3d_models/manufacturer/raspberry-pi/Pico-R3.step",
+            "pitch": 0,
+            "roll": 49152,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "sc0915_smd",
     "pads": {
         "0a37dcd2-18df-53de-b563-ac56a580ae00": {
