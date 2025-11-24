@@ -1,0 +1,48 @@
+{
+    "MPN": [
+        false,
+        "PTS636 SK25 SMTR LFS"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Tactile Switch, Top Actuated, Surface Mount, Rectangular Button, 250 gf"
+    ],
+    "entity": "09952b1f-1221-48ad-896c-4481914e3af2",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "C&K Components"
+    ],
+    "model": "1940623a-996d-4105-8382-fbf0c7833c0e",
+    "orderable_MPNs": {
+        "fe1feac1-6176-4502-8881-efcb965c678d": "PTS636 SK25 SMTR LFS"
+    },
+    "package": "537c76c4-34c6-46ca-b865-02197139acd8",
+    "pad_map": {
+        "927120e7-6662-40c0-9354-3c2ddb01704d": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "831b482b-82af-40ba-8cc0-5e272f25cc2c"
+        },
+        "b6c77e67-d416-4b08-a1b1-7e27e73de52a": {
+            "gate": "1926ff13-c95b-49f9-937c-35ac08ba9efb",
+            "pin": "97955848-10f4-4667-b838-46f6bb8fe085"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mechanical",
+        "smd",
+        "switch"
+    ],
+    "type": "part",
+    "uuid": "41150033-6248-4b2b-bb0c-c640372df867",
+    "value": [
+        false,
+        ""
+    ]
+}
