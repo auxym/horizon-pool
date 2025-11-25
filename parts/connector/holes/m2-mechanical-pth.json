@@ -1,0 +1,40 @@
+{
+    "MPN": [
+        false,
+        "M2 Mechanical PTH"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "M2 Mechanical PTH"
+    ],
+    "entity": "7f3c695f-c5b5-416a-9603-eba03aacd0dd",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "19a05be5-a61c-4746-aed7-154d1a858cfd",
+    "pad_map": {
+        "9dbc45b7-ad38-4eaf-b400-ab9e135c2809": {
+            "gate": "6b2241ce-2882-4106-b9cc-fd29a714c984",
+            "pin": "8ef0434d-cba9-45b9-85ac-84442a15eb24"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "hole",
+        "mechanical"
+    ],
+    "type": "part",
+    "uuid": "af888ebe-2b4d-469b-8d3e-ed30c12a45d6",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "6b2241ce-2882-4106-b9cc-fd29a714c984": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "988a5f26-5cfa-4439-b374-6820548d8537"
+        }
+    },
+    "manufacturer": "",
+    "name": "Mechanical PTH",
+    "prefix": "J",
+    "tags": [
+        "hole",
+        "mechanical"
+    ],
+    "type": "entity",
+    "uuid": "7f3c695f-c5b5-416a-9603-eba03aacd0dd"
+}

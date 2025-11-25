@@ -1,0 +1,14 @@
+{
+    "manufacturer": "",
+    "name": "Mechanical PTH",
+    "pins": {
+        "8ef0434d-cba9-45b9-85ac-84442a15eb24": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Main",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "988a5f26-5cfa-4439-b374-6820548d8537"
+}
