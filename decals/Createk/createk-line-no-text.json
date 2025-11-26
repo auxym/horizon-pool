@@ -1,0 +1,156 @@
+{
+    "arcs": {},
+    "junctions": {
+        "03d5f0c3-0669-4596-9818-63ab506b276b": {
+            "position": [
+                38110000,
+                -3744000
+            ]
+        },
+        "2173819b-0628-4260-89fb-7ca0552c9a81": {
+            "position": [
+                25414000,
+                18244000
+            ]
+        },
+        "28f3faa7-57ac-4774-9ecd-8986b5feb8c3": {
+            "position": [
+                88000,
+                3578000
+            ]
+        },
+        "2b5ad9d5-1e2f-46c2-8c6b-cc488776a131": {
+            "position": [
+                38112000,
+                10950000
+            ]
+        },
+        "30b6e924-fd0d-48f2-b58c-25f859fd2dfc": {
+            "position": [
+                38112000,
+                -11034000
+            ]
+        },
+        "37fa437d-ca1a-4baa-becb-0698dc469414": {
+            "position": [
+                0,
+                -3750000
+            ]
+        },
+        "3c245574-30e3-4ad9-83c7-3521f98ef72c": {
+            "position": [
+                25414000,
+                10916000
+            ]
+        },
+        "5f5cd0fd-330e-43e2-9451-e2f1384315fd": {
+            "position": [
+                38112000,
+                3596000
+            ]
+        },
+        "823802c4-ead2-44bb-b8af-8ba51b49644c": {
+            "position": [
+                38112000,
+                -11072000
+            ]
+        },
+        "9547d5ce-01e2-496d-975e-dd31eb9e89fa": {
+            "position": [
+                25414000,
+                -18412000
+            ]
+        },
+        "c53b9211-99c1-45b9-a8dc-337ee5c32a57": {
+            "position": [
+                19050000,
+                -74000
+            ]
+        },
+        "ec206ec5-db28-4f4f-a488-c479bf1b4248": {
+            "position": [
+                25414000,
+                -11074000
+            ]
+        }
+    },
+    "lines": {
+        "06a35aec-185d-4ecb-a5e5-6f834ddda1a4": {
+            "from": "2173819b-0628-4260-89fb-7ca0552c9a81",
+            "layer": 20,
+            "to": "2b5ad9d5-1e2f-46c2-8c6b-cc488776a131",
+            "width": 700000
+        },
+        "333958aa-9ce9-4224-832f-f4f6a5dbd041": {
+            "from": "5f5cd0fd-330e-43e2-9451-e2f1384315fd",
+            "layer": 20,
+            "to": "2b5ad9d5-1e2f-46c2-8c6b-cc488776a131",
+            "width": 700000
+        },
+        "45e49316-0079-4546-af2a-456917bfb5a7": {
+            "from": "c53b9211-99c1-45b9-a8dc-337ee5c32a57",
+            "layer": 20,
+            "to": "823802c4-ead2-44bb-b8af-8ba51b49644c",
+            "width": 700000
+        },
+        "657b3308-4a2f-4475-a05c-2f197fd5fa2a": {
+            "from": "2b5ad9d5-1e2f-46c2-8c6b-cc488776a131",
+            "layer": 20,
+            "to": "c53b9211-99c1-45b9-a8dc-337ee5c32a57",
+            "width": 700000
+        },
+        "67e18e01-221e-492a-a908-b4ad8e350d12": {
+            "from": "9547d5ce-01e2-496d-975e-dd31eb9e89fa",
+            "layer": 20,
+            "to": "37fa437d-ca1a-4baa-becb-0698dc469414",
+            "width": 700000
+        },
+        "67fd9849-591b-49c1-9a60-93c89e1ad15d": {
+            "from": "37fa437d-ca1a-4baa-becb-0698dc469414",
+            "layer": 20,
+            "to": "3c245574-30e3-4ad9-83c7-3521f98ef72c",
+            "width": 700000
+        },
+        "8733f0b1-066e-4257-a72b-7070b13d7b0c": {
+            "from": "823802c4-ead2-44bb-b8af-8ba51b49644c",
+            "layer": 20,
+            "to": "9547d5ce-01e2-496d-975e-dd31eb9e89fa",
+            "width": 700000
+        },
+        "990ff0b4-bf36-413e-a488-f04ca78f63ac": {
+            "from": "28f3faa7-57ac-4774-9ecd-8986b5feb8c3",
+            "layer": 20,
+            "to": "2173819b-0628-4260-89fb-7ca0552c9a81",
+            "width": 700000
+        },
+        "a6fba954-7a56-49b2-9ba9-134296335b6d": {
+            "from": "ec206ec5-db28-4f4f-a488-c479bf1b4248",
+            "layer": 20,
+            "to": "03d5f0c3-0669-4596-9818-63ab506b276b",
+            "width": 700000
+        },
+        "bb6a1a99-399b-4123-aebd-da8fe4c325f5": {
+            "from": "03d5f0c3-0669-4596-9818-63ab506b276b",
+            "layer": 20,
+            "to": "30b6e924-fd0d-48f2-b58c-25f859fd2dfc",
+            "width": 700000
+        },
+        "c614390c-77d0-4b71-b070-6f2c3100da5e": {
+            "from": "28f3faa7-57ac-4774-9ecd-8986b5feb8c3",
+            "layer": 20,
+            "to": "ec206ec5-db28-4f4f-a488-c479bf1b4248",
+            "width": 700000
+        },
+        "d2f5bdb1-5685-4cc9-bf4d-fbce4b908b11": {
+            "from": "3c245574-30e3-4ad9-83c7-3521f98ef72c",
+            "layer": 20,
+            "to": "5f5cd0fd-330e-43e2-9451-e2f1384315fd",
+            "width": 700000
+        }
+    },
+    "name": "Createk (Line No Text)",
+    "polygons": {},
+    "texts": {},
+    "type": "decal",
+    "uuid": "9ca3a1fe-a9e5-4748-8faf-a1d60c9f897a"
+}
