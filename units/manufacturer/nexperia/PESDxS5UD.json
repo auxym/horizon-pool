@@ -1,0 +1,44 @@
+{
+    "manufacturer": "Nexperia",
+    "name": "PESDxS5UD",
+    "pins": {
+        "53847b00-ca7a-4d25-9fe6-8a3e1156a62d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Cathode 4",
+            "swap_group": 0
+        },
+        "57215db4-e497-4f8c-bf41-7df3a7d570e6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Cathode 1",
+            "swap_group": 0
+        },
+        "ae7cf66e-e007-4c4a-b500-7fd6778a67b4": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Cathode 3",
+            "swap_group": 0
+        },
+        "b4889006-7f0c-4546-a053-8b76bfccb457": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "Cathode 5",
+            "swap_group": 0
+        },
+        "c0d24fc6-72d7-418c-9c95-cd4ed6f5d72e": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Cathode 2",
+            "swap_group": 0
+        },
+        "ca19abc6-ae13-4385-8222-7671d7ef19db": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Common anode",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "019eebdf-e530-40df-9ba7-4f347a7adb01"
+}

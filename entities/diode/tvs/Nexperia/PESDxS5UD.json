@@ -1,0 +1,22 @@
+{
+    "gates": {
+        "a97032dc-b954-4fff-81c2-7363b0ebe04c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "019eebdf-e530-40df-9ba7-4f347a7adb01"
+        }
+    },
+    "manufacturer": "Nexperia",
+    "name": "PESDxS5UD",
+    "prefix": "U",
+    "tags": [
+        "array",
+        "diode",
+        "esd",
+        "protection",
+        "tvs"
+    ],
+    "type": "entity",
+    "uuid": "9c7064ad-26ef-41bb-9390-b16acbeed022"
+}

@@ -1,0 +1,62 @@
+{
+    "MPN": [
+        false,
+        "PESD3V3S5UD,115"
+    ],
+    "datasheet": [
+        false,
+        "https://assets.nexperia.com/documents/data-sheet/PESDXS5UD_SER.pdf"
+    ],
+    "description": [
+        false,
+        "TVS diode array 5-channel 3.3V"
+    ],
+    "entity": "9c7064ad-26ef-41bb-9390-b16acbeed022",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "6094ee7f-a330-4218-9e5e-fc50db580d97",
+    "pad_map": {
+        "6c86fae6-969c-495f-93f7-5cf0a8cfcc7b": {
+            "gate": "a97032dc-b954-4fff-81c2-7363b0ebe04c",
+            "pin": "ca19abc6-ae13-4385-8222-7671d7ef19db"
+        },
+        "8f985f09-26ec-4ff8-a274-44d0d224d3bb": {
+            "gate": "a97032dc-b954-4fff-81c2-7363b0ebe04c",
+            "pin": "57215db4-e497-4f8c-bf41-7df3a7d570e6"
+        },
+        "af95565f-c5bc-499b-93d0-f7173a01a1d5": {
+            "gate": "a97032dc-b954-4fff-81c2-7363b0ebe04c",
+            "pin": "53847b00-ca7a-4d25-9fe6-8a3e1156a62d"
+        },
+        "b0a0e087-4a11-4f75-b717-f9a3beefdb46": {
+            "gate": "a97032dc-b954-4fff-81c2-7363b0ebe04c",
+            "pin": "ae7cf66e-e007-4c4a-b500-7fd6778a67b4"
+        },
+        "b7155107-3658-4c34-88e9-0495fe6d12af": {
+            "gate": "a97032dc-b954-4fff-81c2-7363b0ebe04c",
+            "pin": "b4889006-7f0c-4546-a053-8b76bfccb457"
+        },
+        "bcdcc992-98ee-478f-9633-87e66a7f996f": {
+            "gate": "a97032dc-b954-4fff-81c2-7363b0ebe04c",
+            "pin": "c0d24fc6-72d7-418c-9c95-cd4ed6f5d72e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "esd",
+        "protection",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "481e5b0b-7f22-4653-b249-11226a34e95c",
+    "value": [
+        false,
+        ""
+    ]
+}
