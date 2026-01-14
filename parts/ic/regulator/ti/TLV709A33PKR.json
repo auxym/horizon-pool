@@ -1,0 +1,45 @@
+{
+    "MPN": [
+        false,
+        "TLV709A33PKR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/tlv709.pdf?ts=1768338667718&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTLV709"
+    ],
+    "description": [
+        false,
+        "LDO Voltage Regulator 150 mA 30V input 3.3V output"
+    ],
+    "entity": "1d0055e8-b654-4bb9-b3e2-5ad87079ecca",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "f5fca1ec-d995-4fe5-9fe4-885326f422f7",
+    "pad_map": {
+        "3ebf7875-8da6-4b4f-b265-a509b8612f5c": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "e275d804-ca1b-445a-b2de-9bc67d50914c": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "f1e5dbff-9381-450a-94a0-6e059587a050": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "35462c60-9a89-4cec-be0f-a58a0cc75eb6",
+    "value": [
+        false,
+        ""
+    ]
+}
