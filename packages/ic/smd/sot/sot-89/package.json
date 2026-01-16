@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "cdf38791-9b8e-4da0-865c-3a48a1601e3a",
     "dimensions": {
         "329e1873-df29-4e37-b961-c58e9d7359ea": {
             "label_distance": 3200000,
@@ -177,7 +177,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "cdf38791-9b8e-4da0-865c-3a48a1601e3a": {
+            "filename": "3d_models/ic/so/SOT89.step",
+            "pitch": 16384,
+            "roll": 16384,
+            "x": 2500000,
+            "y": -2098391,
+            "yaw": 0,
+            "z": 2231893
+        }
+    },
     "name": "SOT-89",
     "pads": {
         "3ebf7875-8da6-4b4f-b265-a509b8612f5c": {
@@ -312,13 +322,13 @@
                 "angle": 49152,
                 "mirror": true,
                 "shift": [
-                    3600000,
-                    2100000
+                    3000000,
+                    700000
                 ]
             },
-            "size": 1500000,
+            "size": 1000000,
             "text": "$RD",
-            "width": 200000
+            "width": 150000
         }
     },
     "type": "package",
