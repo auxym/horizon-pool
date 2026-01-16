@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "43650-0802"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Micro-Fit header 8 pos right angle AU"
+    ],
+    "entity": "771a429f-983f-4758-b6d4-80e107ae9f8e",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "6fa967b9-286d-4a49-900f-277beececbcf",
+    "package": "e6b1f6a9-12cd-462f-aa18-060bd6c0c310",
+    "pad_map": {
+        "19f786b6-521f-453f-b3c3-5250b40aeceb": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "394fe994-72b0-4e01-9a0b-c463902d55e8"
+        },
+        "1c53a417-43d1-46ef-9869-1192b6e2d4c2": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "01ff6735-94f0-415a-9ce6-55b0515c1cd1"
+        },
+        "2ee11a5b-d403-48f2-9bbd-bafc49a85f48": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "1a7a9b72-a0d1-4ee1-91f9-45265c2b41bb"
+        },
+        "4c9be80f-2500-41a2-b29b-b00201acd98c": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "65a73301-97c0-40b6-8138-4fcd12815dc0"
+        },
+        "66e1b6a2-e9eb-4ce7-8c47-0d61836e29ae": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e137d258-e055-4644-b9a5-fad874553ddf"
+        },
+        "70388513-071f-4693-8f1a-8e16fe1fa59c": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "fa73ec1a-10bc-4280-aa96-1b222e566826"
+        },
+        "cafdaef1-a6ac-42ba-a267-a1f64fb5f8f3": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "e95ff9ae-5dce-4a5d-bc8a-158c688b9a0e"
+        },
+        "d618fdbc-6374-4c63-8465-0ba95ffd6e68": {
+            "gate": "58d54dd5-80b0-4554-9145-748a613a6042",
+            "pin": "3256695a-0b7e-4ed5-a6e6-4f9afb354f54"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "header"
+    ],
+    "type": "part",
+    "uuid": "d10592b8-3388-4646-8984-85628eca9871",
+    "value": [
+        false,
+        ""
+    ]
+}

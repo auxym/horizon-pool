@@ -1,0 +1,462 @@
+{
+    "arcs": {},
+    "default_model": "6fa967b9-286d-4a49-900f-277beececbcf",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "032653fb-b0e4-4d6f-9c5c-281ca0c0b312": {
+            "position": [
+                -2828931,
+                1107000
+            ]
+        },
+        "1658c3d9-6b37-4be2-bc0d-65015134a041": {
+            "position": [
+                -9171066,
+                1107000
+            ]
+        },
+        "3ccad0dc-0009-496c-86cc-0b9c4a9ecbd4": {
+            "position": [
+                171068,
+                1107000
+            ]
+        },
+        "49043622-b89f-442e-8aad-592e545e88f6": {
+            "position": [
+                -3171068,
+                1107000
+            ]
+        },
+        "66c9c767-2bf2-445a-b708-26f91914ac32": {
+            "position": [
+                -20828925,
+                1107000
+            ]
+        },
+        "6a8564ea-7ca1-4577-a4c7-000f9879d39d": {
+            "position": [
+                -171069,
+                1107000
+            ]
+        },
+        "70af83e2-d08c-4d2d-adef-76ffbc53c042": {
+            "position": [
+                3317603,
+                -8925999
+            ]
+        },
+        "76bff57e-74b9-497b-9f39-e1201f6a7d1c": {
+            "position": [
+                -15171064,
+                1107000
+            ]
+        },
+        "81811be5-77ba-4e7e-968a-a78654580deb": {
+            "position": [
+                -5828930,
+                1107000
+            ]
+        },
+        "865b4c41-0123-49ca-af74-0f7381f4ac22": {
+            "position": [
+                -11828928,
+                1107000
+            ]
+        },
+        "94980983-706b-4a3f-9fb9-1d5c0f792eac": {
+            "position": [
+                -24444597,
+                -9052999
+            ]
+        },
+        "9504cbfd-7097-42dc-984b-7ba9b6d18a4f": {
+            "position": [
+                -14828927,
+                1107000
+            ]
+        },
+        "a694ebf6-5cfe-4c34-bfb1-814a3f357dad": {
+            "position": [
+                3444603,
+                -9052999
+            ]
+        },
+        "ad70bf79-345c-4ca2-86a5-74d5a5d397c7": {
+            "position": [
+                -24317597,
+                -8925999
+            ]
+        },
+        "b33108fc-b81b-413e-a953-9fc48c5cdd2f": {
+            "position": [
+                -8828929,
+                1107000
+            ]
+        },
+        "b97ce85d-32f8-409f-a1fa-4dc23753d78f": {
+            "position": [
+                3317603,
+                980000
+            ]
+        },
+        "ba695e8d-5b5f-4e63-9219-7a32b648c5af": {
+            "position": [
+                -24317597,
+                980000
+            ]
+        },
+        "c4681e38-2bf7-4023-92db-2715f471c661": {
+            "position": [
+                -6171067,
+                1107000
+            ]
+        },
+        "cef084ed-d390-4189-8536-f0935adecf98": {
+            "position": [
+                3444603,
+                1107000
+            ]
+        },
+        "d3f97be2-b7e7-41fc-8cac-04cbc9204001": {
+            "position": [
+                -17828926,
+                1107000
+            ]
+        },
+        "d6c6f4aa-3bf9-45f4-9cb0-b486fb3d232d": {
+            "position": [
+                -12171065,
+                1107000
+            ]
+        },
+        "eda1c5bd-b738-43e3-b13e-afb8651864e6": {
+            "position": [
+                -21171063,
+                1107000
+            ]
+        },
+        "ee13878b-0863-4592-99be-d64ad0432c94": {
+            "position": [
+                -24444597,
+                1107000
+            ]
+        },
+        "f285c2c5-9ed3-4418-b840-85155d935bc9": {
+            "position": [
+                -18171063,
+                1107000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "44df8ded-2faa-47f3-b458-c7d74b849be9": {
+            "from": "76bff57e-74b9-497b-9f39-e1201f6a7d1c",
+            "layer": 20,
+            "to": "d3f97be2-b7e7-41fc-8cac-04cbc9204001",
+            "width": 152400
+        },
+        "567db408-3815-4f6b-8e7e-b0eb5bb75b42": {
+            "from": "d6c6f4aa-3bf9-45f4-9cb0-b486fb3d232d",
+            "layer": 20,
+            "to": "9504cbfd-7097-42dc-984b-7ba9b6d18a4f",
+            "width": 152400
+        },
+        "687699c5-8d36-4716-a618-6990b11d70d2": {
+            "from": "cef084ed-d390-4189-8536-f0935adecf98",
+            "layer": 20,
+            "to": "3ccad0dc-0009-496c-86cc-0b9c4a9ecbd4",
+            "width": 152400
+        },
+        "6dfd95ef-87ac-422c-909c-d9e6d813d1f9": {
+            "from": "ee13878b-0863-4592-99be-d64ad0432c94",
+            "layer": 20,
+            "to": "94980983-706b-4a3f-9fb9-1d5c0f792eac",
+            "width": 152400
+        },
+        "7c9ae00a-92b4-466d-8008-907c54cbb70f": {
+            "from": "70af83e2-d08c-4d2d-adef-76ffbc53c042",
+            "layer": 50,
+            "to": "b97ce85d-32f8-409f-a1fa-4dc23753d78f",
+            "width": 0
+        },
+        "890e622c-4cc3-46bf-aeab-b035b6f2e673": {
+            "from": "a694ebf6-5cfe-4c34-bfb1-814a3f357dad",
+            "layer": 20,
+            "to": "cef084ed-d390-4189-8536-f0935adecf98",
+            "width": 152400
+        },
+        "a1b11ecf-fe29-44d1-b427-b7a2d5df9548": {
+            "from": "6a8564ea-7ca1-4577-a4c7-000f9879d39d",
+            "layer": 20,
+            "to": "032653fb-b0e4-4d6f-9c5c-281ca0c0b312",
+            "width": 152400
+        },
+        "ae04554a-4d34-4243-b72c-0b0ae217728d": {
+            "from": "1658c3d9-6b37-4be2-bc0d-65015134a041",
+            "layer": 20,
+            "to": "865b4c41-0123-49ca-af74-0f7381f4ac22",
+            "width": 152400
+        },
+        "b88a10d5-13ee-4a80-ac2c-70fe63f46806": {
+            "from": "c4681e38-2bf7-4023-92db-2715f471c661",
+            "layer": 20,
+            "to": "b33108fc-b81b-413e-a953-9fc48c5cdd2f",
+            "width": 152400
+        },
+        "c0a9569b-8dee-4e00-9bb1-da833c6ff205": {
+            "from": "94980983-706b-4a3f-9fb9-1d5c0f792eac",
+            "layer": 20,
+            "to": "a694ebf6-5cfe-4c34-bfb1-814a3f357dad",
+            "width": 152400
+        },
+        "c3c9cc9f-62c8-45ef-afc9-b3ee3fd66c31": {
+            "from": "ba695e8d-5b5f-4e63-9219-7a32b648c5af",
+            "layer": 50,
+            "to": "ad70bf79-345c-4ca2-86a5-74d5a5d397c7",
+            "width": 0
+        },
+        "d8dd3b9e-7dd4-4629-9262-927611eddfe3": {
+            "from": "eda1c5bd-b738-43e3-b13e-afb8651864e6",
+            "layer": 20,
+            "to": "ee13878b-0863-4592-99be-d64ad0432c94",
+            "width": 152400
+        },
+        "e3bf51b6-0ee5-4b68-8a8c-cbc2179abc08": {
+            "from": "b97ce85d-32f8-409f-a1fa-4dc23753d78f",
+            "layer": 50,
+            "to": "ba695e8d-5b5f-4e63-9219-7a32b648c5af",
+            "width": 0
+        },
+        "e83d6fa0-1bcb-4c4e-bbb9-d134ad5360b8": {
+            "from": "49043622-b89f-442e-8aad-592e545e88f6",
+            "layer": 20,
+            "to": "81811be5-77ba-4e7e-968a-a78654580deb",
+            "width": 152400
+        },
+        "ed11e232-d519-4e0a-9362-30f689497f09": {
+            "from": "f285c2c5-9ed3-4418-b840-85155d935bc9",
+            "layer": 20,
+            "to": "66c9c767-2bf2-445a-b708-26f91914ac32",
+            "width": 152400
+        },
+        "f0c9e99a-5d98-4a4e-bdee-d2bf189a8cbb": {
+            "from": "ad70bf79-345c-4ca2-86a5-74d5a5d397c7",
+            "layer": 50,
+            "to": "70af83e2-d08c-4d2d-adef-76ffbc53c042",
+            "width": 0
+        }
+    },
+    "manufacturer": "Molex",
+    "models": {
+        "6fa967b9-286d-4a49-900f-277beececbcf": {
+            "filename": "3d_models/connector/molex/micro-fit/0436500802.stp",
+            "pitch": 0,
+            "roll": 0,
+            "x": -10499994,
+            "y": -8880000,
+            "yaw": 0,
+            "z": 0
+        }
+    },
+    "name": "436500802",
+    "pads": {
+        "19f786b6-521f-453f-b3c3-5250b40aeceb": {
+            "name": "6",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1066800,
+                "pad_diameter": 1574800
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -14999996,
+                    0
+                ]
+            }
+        },
+        "1c53a417-43d1-46ef-9869-1192b6e2d4c2": {
+            "name": "5",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1066800,
+                "pad_diameter": 1574800
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -11999997,
+                    0
+                ]
+            }
+        },
+        "2ee11a5b-d403-48f2-9bbd-bafc49a85f48": {
+            "name": "2",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1066800,
+                "pad_diameter": 1574800
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2999999,
+                    0
+                ]
+            }
+        },
+        "4c9be80f-2500-41a2-b29b-b00201acd98c": {
+            "name": "3",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1066800,
+                "pad_diameter": 1574800
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5999998,
+                    0
+                ]
+            }
+        },
+        "66e1b6a2-e9eb-4ce7-8c47-0d61836e29ae": {
+            "name": "4",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1066800,
+                "pad_diameter": 1574800
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -8999998,
+                    0
+                ]
+            }
+        },
+        "70388513-071f-4693-8f1a-8e16fe1fa59c": {
+            "name": "1",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1066800,
+                "pad_diameter": 1574800
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "a7c262f0-9dcf-47c6-8412-364b56f319af": {
+            "name": "10",
+            "padstack": "762c84c2-187d-454a-af81-d3381bec5257",
+            "parameter_set": {
+                "hole_diameter": 3048000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2149999,
+                    -4319999
+                ]
+            }
+        },
+        "b5d51b8d-7cac-4a75-ae1e-3342c71cb2f0": {
+            "name": "9",
+            "padstack": "762c84c2-187d-454a-af81-d3381bec5257",
+            "parameter_set": {
+                "hole_diameter": 3048000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -18849996,
+                    -4319999
+                ]
+            }
+        },
+        "cafdaef1-a6ac-42ba-a267-a1f64fb5f8f3": {
+            "name": "8",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1066800,
+                "pad_diameter": 1574800
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -20999994,
+                    0
+                ]
+            }
+        },
+        "d618fdbc-6374-4c63-8465-0ba95ffd6e68": {
+            "name": "7",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1066800,
+                "pad_diameter": 1574800
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -17999995,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "connector",
+        "header",
+        "micro-fit"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "e6b1f6a9-12cd-462f-aa18-060bd6c0c310"
+}
