@@ -772,6 +772,23 @@
             "size": 1500000,
             "text": "$REFDES",
             "width": 0
+        },
+        "dc38c90f-936e-4d9b-ab44-cfb1f4402c06": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5000000,
+                    -8750000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
         }
     },
     "type": "symbol",
