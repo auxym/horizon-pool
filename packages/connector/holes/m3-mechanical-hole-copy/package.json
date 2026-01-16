@@ -1,0 +1,67 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 1000000
+        },
+        "grids": {}
+    },
+    "junctions": {},
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {},
+    "name": "M3 Mechanical PTH",
+    "pads": {
+        "9dbc45b7-ad38-4eaf-b400-ab9e135c2809": {
+            "name": "1",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 3400000,
+                "pad_diameter": 5700000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {},
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "hole",
+        "mechanical"
+    ],
+    "texts": {},
+    "type": "package",
+    "uuid": "73978710-a395-4e49-93a8-7aa32b8c8f3f"
+}
