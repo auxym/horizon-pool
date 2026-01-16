@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "PTVS18VS1UTR,115"
+    ],
+    "datasheet": [
+        false,
+        "https://assets.nexperia.com/documents/data-sheet/PTVSXS1UTR_SER.pdf"
+    ],
+    "description": [
+        false,
+        "TVS Diode 18 V"
+    ],
+    "entity": "c0b101b3-9696-4326-98e3-7a4422d12d6d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "9e4b5357-180f-4c7c-964f-18a57f0bc714",
+    "pad_map": {
+        "175df0a8-6a0c-4553-b1a4-d8d784c5ff9f": {
+            "gate": "09866867-c83e-45e1-9539-4f5645d5927c",
+            "pin": "4805f67b-234b-4dfb-95b3-feb4e0cf9835"
+        },
+        "1f3829aa-eabd-44c6-a356-27c4df266bde": {
+            "gate": "09866867-c83e-45e1-9539-4f5645d5927c",
+            "pin": "3c32ea3d-a257-42be-bf81-4113ba2f40db"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "esd",
+        "protection",
+        "smd",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "1ac20971-3d16-4c05-8de6-9037ded08f08",
+    "value": [
+        false,
+        ""
+    ]
+}
